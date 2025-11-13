@@ -4,6 +4,7 @@ This folder contains 5 C# exercises. Each exercise is in its own folder `exN` an
 
 Structure for each exercise folder:
 
+- `ex0/hello_world.cs` and `ex0/hello_world_solution.cs` - print "Hello, World!"
 - `ex1/add.cs` and `ex1/add_solution.cs` - sum / add function
 - `ex2/palindrome.cs` and `ex2/palindrome_solution.cs` - palindrome check
 - `ex3/selection_sort.cs` and `ex3/selection_sort_solution.cs` - selection sort
