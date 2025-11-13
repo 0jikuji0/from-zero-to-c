@@ -1,6 +1,6 @@
 # C# Language Exercises
 
-This folder contains 5 C# exercises. Each exercise is in its own folder `exN` and contains a template exercise file and a solution file.
+This folder contains 8 C# exercises. Each exercise is in its own folder `exN` and contains a template exercise file and a solution file.
 
 Structure for each exercise folder:
 
@@ -10,7 +10,9 @@ Structure for each exercise folder:
 - `ex3/selection_sort.cs` and `ex3/selection_sort_solution.cs` - selection sort
 - `ex4/linked_list_reverse.cs` and `ex4/linked_list_reverse_solution.cs` - linked list reversal
 - `ex5/inversion_count.cs` and `ex5/inversion_count_solution.cs` - inversion counting
- - `ex6/longest_increasing_subsequence.cs` and `ex6/longest_increasing_subsequence_solution.cs` - longest increasing subsequence (LIS)
+- `ex6/longest_increasing_subsequence.cs` and `ex6/longest_increasing_subsequence_solution.cs` - longest increasing subsequence (LIS)
+- `ex7/reference_swap.cs` and `ex7/reference_swap_solution.cs` - swap two integers using `ref` parameters
+- `ex8/list_modify.cs` and `ex8/list_modify_solution.cs` - modify a List element at a given index
 
 How to compile (Mono):
 
