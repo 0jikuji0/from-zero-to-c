@@ -76,7 +76,7 @@ Notes
   for every possible edge case.
 
 Support
-- If you find this repository useful, please consider giving it a star (**) on GitHub!
+- If you find this repository useful, please consider giving it a star (*) on GitHub!
   Your support helps us continue improving the exercises and adding new content.
 - Stars also help other learners discover this resource.
 

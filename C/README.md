@@ -1,25 +1,22 @@
 # C Language Exercises
 
-This workspace contains 5 C language exercises. Each exercise is in its own folder `exN`.
+This workspace contains 13 C language exercises. Each exercise is in its own folder `exN`.
 
 Structure for each exercise folder (topic-based filenames):
 
-- `ex1/add.c` and `ex1/add_solution.c` - sum / add function
-- `ex2/palindrome.c` and `ex2/palindrome_solution.c` - palindrome check
-- `ex3/selection_sort.c` and `ex3/selection_sort_solution.c` - selection sort
-- `ex4/linked_list_reverse.c` and `ex4/linked_list_reverse_solution.c` - linked list reversal
-- `ex5/inversion_count.c` and `ex5/inversion_count_solution.c` - inversion counting
 - `ex0/hello_world.c` and `ex0/hello_world_solution.c` - print "Hello, World!"
 - `ex1/add.c` and `ex1/add_solution.c` - sum / add function
 - `ex2/palindrome.c` and `ex2/palindrome_solution.c` - palindrome check
 - `ex3/selection_sort.c` and `ex3/selection_sort_solution.c` - selection sort
 - `ex4/linked_list_reverse.c` and `ex4/linked_list_reverse_solution.c` - linked list reversal
 - `ex5/inversion_count.c` and `ex5/inversion_count_solution.c` - inversion counting
- - `ex6/...` (other exercises)
- - `ex8/prime_sieve.c` and `ex8/prime_sieve_solution.c` - count primes <= n (Sieve of Eratosthenes)
- - `ex9/two_sum.c` and `ex9/two_sum_solution.c` - find two indices with sum t (Two Sum)
- - `ex10/pointer_swap.c` and `ex10/pointer_swap_solution.c` - swap two integers using pointers
- - `ex11/dynamic_array.c` and `ex11/dynamic_array_solution.c` - dynamic array allocation and modification
+- `ex6/prime_sieve.c` and `ex6/prime_sieve_solution.c` - count primes <= n (Sieve of Eratosthenes)
+- `ex7/two_sum.c` and `ex7/two_sum_solution.c` - find two indices with sum t (Two Sum)
+- `ex8/pointer_swap.c` and `ex8/pointer_swap_solution.c` - swap two integers using pointers
+- `ex9/dynamic_array.c` and `ex9/dynamic_array_solution.c` - dynamic array allocation and modification
+- `ex10/fibonacci.c` and `ex10/fibonacci_solution.c` - compute n-th Fibonacci number (iterative)
+- `ex11/is_prime.c` and `ex11/is_prime_solution.c` - check if a number is prime
+- `ex12/max_subarray.c` and `ex12/max_subarray_solution.c` - maximum subarray sum using Kadane's algorithm
 
 Each C file includes a comment at the top with the exercise title and difficulty (stars using `*`).
 
