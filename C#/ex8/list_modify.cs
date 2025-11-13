@@ -21,7 +21,7 @@
 //   Output:
 //     1 2 99 4 5
 //
-// Difficulty: ⭐⭐ (2/5)
+// Difficulty: ** (2/5)
 
 using System;
 using System.Collections.Generic;

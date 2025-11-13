@@ -1,6 +1,6 @@
 # C# Language Exercises
 
-This folder contains 8 C# exercises. Each exercise is in its own folder `exN` and contains a template exercise file and a solution file.
+This folder contains 11 C# exercises. Each exercise is in its own folder `exN` and contains a template exercise file and a solution file.
 
 Structure for each exercise folder:
 
@@ -13,6 +13,9 @@ Structure for each exercise folder:
 - `ex6/longest_increasing_subsequence.cs` and `ex6/longest_increasing_subsequence_solution.cs` - longest increasing subsequence (LIS)
 - `ex7/reference_swap.cs` and `ex7/reference_swap_solution.cs` - swap two integers using `ref` parameters
 - `ex8/list_modify.cs` and `ex8/list_modify_solution.cs` - modify a List element at a given index
+- `ex9/fibonacci.cs` and `ex9/fibonacci_solution.cs` - compute n-th Fibonacci number (iterative)
+- `ex10/is_prime.cs` and `ex10/is_prime_solution.cs` - check if a number is prime
+- `ex11/max_subarray.cs` and `ex11/max_subarray_solution.cs` - maximum subarray sum using Kadane's algorithm
 
 How to compile (Mono):
 
