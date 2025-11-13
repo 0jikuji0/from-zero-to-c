@@ -9,6 +9,7 @@ Structure for each exercise folder (topic-based filenames):
 - `ex3/selection_sort.cpp` and `ex3/selection_sort_solution.cpp` - selection sort
 - `ex4/linked_list_reverse.cpp` and `ex4/linked_list_reverse_solution.cpp` - linked list reversal
 - `ex5/inversion_count.cpp` and `ex5/inversion_count_solution.cpp` - inversion counting
+- `ex6/longest_increasing_subsequence.cpp` and `ex6/longest_increasing_subsequence_solution.cpp` - longest increasing subsequence (LIS)
 
 Each C++ file includes a comment at the top with the exercise title and difficulty (stars using `*`).
 
