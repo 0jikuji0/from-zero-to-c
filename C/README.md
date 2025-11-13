@@ -18,6 +18,8 @@ Structure for each exercise folder (topic-based filenames):
  - `ex6/...` (other exercises)
  - `ex8/prime_sieve.c` and `ex8/prime_sieve_solution.c` - count primes <= n (Sieve of Eratosthenes)
  - `ex9/two_sum.c` and `ex9/two_sum_solution.c` - find two indices with sum t (Two Sum)
+ - `ex10/pointer_swap.c` and `ex10/pointer_swap_solution.c` - swap two integers using pointers
+ - `ex11/dynamic_array.c` and `ex11/dynamic_array_solution.c` - dynamic array allocation and modification
 
 Each C file includes a comment at the top with the exercise title and difficulty (stars using `*`).
 
