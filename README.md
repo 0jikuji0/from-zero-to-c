@@ -75,5 +75,10 @@ Notes
 - Solutions are intended to be clear and educational rather than optimized
   for every possible edge case.
 
+Support
+- If you find this repository useful, please consider giving it a star (**) on GitHub!
+  Your support helps us continue improving the exercises and adding new content.
+- Stars also help other learners discover this resource.
+
 Contact
-- Repository owner: the.jikuji_dev (see git commits for author email)
+- Repository owner: jikuji</>
