@@ -17,6 +17,7 @@ Structure for each exercise folder (topic-based filenames):
 - `ex5/inversion_count.c` and `ex5/inversion_count_solution.c` - inversion counting
  - `ex6/...` (other exercises)
  - `ex8/prime_sieve.c` and `ex8/prime_sieve_solution.c` - count primes <= n (Sieve of Eratosthenes)
+ - `ex9/two_sum.c` and `ex9/two_sum_solution.c` - find two indices with sum t (Two Sum)
 
 Each C file includes a comment at the top with the exercise title and difficulty (stars using `*`).
 
