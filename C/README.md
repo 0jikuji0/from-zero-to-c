@@ -9,6 +9,12 @@ Structure for each exercise folder (topic-based filenames):
 - `ex3/selection_sort.c` and `ex3/selection_sort_solution.c` - selection sort
 - `ex4/linked_list_reverse.c` and `ex4/linked_list_reverse_solution.c` - linked list reversal
 - `ex5/inversion_count.c` and `ex5/inversion_count_solution.c` - inversion counting
+- `ex0/hello_world.c` and `ex0/hello_world_solution.c` - print "Hello, World!"
+- `ex1/add.c` and `ex1/add_solution.c` - sum / add function
+- `ex2/palindrome.c` and `ex2/palindrome_solution.c` - palindrome check
+- `ex3/selection_sort.c` and `ex3/selection_sort_solution.c` - selection sort
+- `ex4/linked_list_reverse.c` and `ex4/linked_list_reverse_solution.c` - linked list reversal
+- `ex5/inversion_count.c` and `ex5/inversion_count_solution.c` - inversion counting
 
 Each C file includes a comment at the top with the exercise title and difficulty (stars using `*`).
 
