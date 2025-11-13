@@ -1,6 +1,6 @@
 /*
  * Inversion Count (Exercise 5) - Solution
- * Difficulty: ***** (5 stars) - Very hard
+ * Difficulty: *** (3/5)
  *
  * Solution: count inversions using merge sort and return a 64-bit count.
  */

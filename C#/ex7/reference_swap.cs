@@ -1,5 +1,5 @@
 // Exercise 7 — Reference Swap
-// Difficulty: Easy
+// Difficulty: * (1/5)
 //
 // Problem: read two integers a and b, then swap them using a function that
 // takes ref parameters. Print the swapped values.

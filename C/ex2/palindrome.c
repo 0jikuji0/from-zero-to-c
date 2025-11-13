@@ -1,6 +1,6 @@
 /*
  * Palindrome (Exercise 2)
- * Difficulty: ** (2 stars) - Quite easy
+ * Difficulty: ** (2/5)
  *
  * Task: implement `is_palindrome` which checks whether a given string is a palindrome.
  * The skeleton reads a single word (no spaces) and prints 1 if palindrome, 0 otherwise.

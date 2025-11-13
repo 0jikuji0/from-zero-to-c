@@ -1,5 +1,5 @@
 // Exercise 9 — Vector Element Modification via References
-// Difficulty: * (1 star) - Easy
+// Difficulty: * (1/5)
 //
 // Problem: read n integers into a vector, then read an index i and a value v.
 // Modify vec[i] = v using a reference returned from a helper function.

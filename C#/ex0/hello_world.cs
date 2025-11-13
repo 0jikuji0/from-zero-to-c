@@ -1,5 +1,5 @@
 // Exercise 0 — Hello World
-// Difficulty: Easy
+// Difficulty: * (1/5)
 //
 // Problem: write a C# program that prints "Hello, World!" followed by a newline.
 

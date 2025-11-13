@@ -1,6 +1,6 @@
 /*
  * Linked List Reverse (Exercise 4)
- * Difficulty: **** (4 stars) - Hard
+ * Difficulty: ** (2/5)
  *
  * Task: implement a simple singly linked list and the function `reverse_list` that
  * reverses the list in-place. The skeleton includes append and print functions.

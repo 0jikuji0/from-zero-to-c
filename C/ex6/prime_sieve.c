@@ -1,6 +1,6 @@
 /*
- * Prime Sieve (Exercise 8)
- * Difficulty: ** (2 stars) - Medium
+ * Prime Sieve (Exercise 6)
+ * Difficulty: ** (2/5)
  *
  * Problem: read an integer n (0 <= n <= 1000000) and print the number of
  * prime numbers <= n using the Sieve of Eratosthenes or another method.

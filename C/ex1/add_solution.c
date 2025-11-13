@@ -1,6 +1,6 @@
 /*
  * Add (Exercise 1) - Solution
- * Difficulty: * (1 star) - Very easy
+ * Difficulty: * (1/5)
  *
  * Completed solution: simple sum of two integers.
  */

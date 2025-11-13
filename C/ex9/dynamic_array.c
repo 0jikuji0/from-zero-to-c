@@ -1,6 +1,6 @@
 /*
  * Dynamic Array Modification (Exercise 11)
- * Difficulty: ** (2 stars) - Easy-Medium
+ * Difficulty: ** (2/5)
  *
  * Problem: read n integers into a dynamically allocated array, then read
  * an index i and a new value v. Replace array[i] with v and print the

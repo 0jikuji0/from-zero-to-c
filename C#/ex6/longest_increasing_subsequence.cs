@@ -1,5 +1,5 @@
 // Exercise 6 — Longest Increasing Subsequence (LIS)
-// Difficulty: Medium
+// Difficulty: *** (3/5)
 //
 // Problem: read an integer n (1 ≤ n ≤ 100000) followed by n integers and
 // print the length of the longest strictly increasing subsequence (LIS).

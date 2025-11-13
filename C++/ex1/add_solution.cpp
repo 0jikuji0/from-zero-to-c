@@ -1,6 +1,6 @@
 /*
  * Add (C++ - Exercise 1) - Solution
- * Difficulty: * (1 star) - Very easy
+ * Difficulty: * (1/5)
  */
 
 #include <iostream>
@@ -20,7 +20,7 @@ int main() {
 }
 /*
  * Add (C++ - Exercise 1) - Solution
- * Difficulty: * (1 star) - Very easy
+ * Difficulty: * (1/5)
  */
 
 #include <iostream>

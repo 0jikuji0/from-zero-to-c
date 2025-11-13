@@ -1,5 +1,5 @@
 // Exercise 3 — Selection sort
-// Difficulty: Medium
+// Difficulty: ** (2/5)
 //
 // Problem: read n followed by n integers, sort them using selection sort
 // and print the sorted sequence.

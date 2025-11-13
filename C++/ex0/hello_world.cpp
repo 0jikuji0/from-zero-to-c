@@ -1,5 +1,5 @@
 // Hello World (Exercise 0)
-// Difficulty: * (1 star) - Very easy
+// Difficulty: * (1/5)
 
 #include <iostream>
 

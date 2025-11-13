@@ -1,6 +1,6 @@
 /*
  * Linked List Reverse (C++ - Exercise 4) - Solution
- * Difficulty: **** (4 stars) - Hard
+ * Difficulty: ** (2/5)
  */
 
 #include <iostream>
@@ -69,7 +69,7 @@ int main() {
 }
 /*
  * Linked List Reverse (C++ - Exercise 4) - Solution
- * Difficulty: **** (4 stars) - Hard
+ * Difficulty: ** (2/5)
  */
 
 #include <iostream>

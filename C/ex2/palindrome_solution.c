@@ -1,6 +1,6 @@
 /*
  * Palindrome (Exercise 2) - Solution
- * Difficulty: ** (2 stars) - Quite easy
+ * Difficulty: ** (2/5)
  *
  * Solution: simple two-pointer palindrome check.
  */

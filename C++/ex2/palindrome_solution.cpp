@@ -1,6 +1,6 @@
 /*
  * Palindrome (C++ - Exercise 2) - Solution
- * Difficulty: ** (2 stars) - Quite easy
+ * Difficulty: ** (2/5)
  */
 
 #include <iostream>
@@ -28,7 +28,7 @@ int main() {
 }
 /*
  * Palindrome (C++ - Exercise 2) - Solution
- * Difficulty: ** (2 stars) - Quite easy
+ * Difficulty: ** (2/5)
  */
 
 #include <iostream>

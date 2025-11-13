@@ -1,6 +1,6 @@
 /*
  * Selection Sort (C++ - Exercise 3)
- * Difficulty: *** (3 stars) - Easy
+ * Difficulty: ** (2/5)
  */
 
 #include <iostream>
@@ -20,7 +20,7 @@ int main() {
 }
 /*
  * Selection Sort (C++ - Exercise 3)
- * Difficulty: *** (3 stars) - Easy
+ * Difficulty: ** (2/5)
  */
 
 #include <iostream>

@@ -1,6 +1,6 @@
 /*
  * Inversion Count (Exercise 5)
- * Difficulty: ***** (5 stars) - Very hard
+ * Difficulty: *** (3/5)
  *
  * Task: implement `count_inversions` which counts the number of inversions in an
  * integer array (pairs i<j with a[i] > a[j]) using a divide-and-conquer approach

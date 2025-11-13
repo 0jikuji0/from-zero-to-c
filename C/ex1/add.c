@@ -1,6 +1,6 @@
 /*
  * Add (Exercise 1)
- * Difficulty: * (1 star) - Very easy
+ * Difficulty: * (1/5)
  *
  * Task: implement the function `add` which returns the sum of two integers.
  * The skeleton below reads two integers from stdin and prints the result.

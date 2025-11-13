@@ -1,6 +1,6 @@
 /*
  * Linked List Reverse (Exercise 4) - Solution
- * Difficulty: **** (4 stars) - Hard
+ * Difficulty: ** (2/5)
  *
  * Solution: reverse a singly linked list in-place.
  */

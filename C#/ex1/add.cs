@@ -1,5 +1,5 @@
 // Exercise 1 — Add two integers
-// Difficulty: Easy
+// Difficulty: * (1/5)
 //
 // Problem: read two integers and print their sum.
 

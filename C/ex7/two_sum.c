@@ -1,6 +1,6 @@
 /*
  * Two Sum (Exercise 9)
- * Difficulty: ** (2 stars) - Easy
+ * Difficulty: ** (2/5)
  *
 + * Problem: given an array of n integers and a target value t, determine
  * whether there exist two distinct indices i and j such that a[i] + a[j] = t.

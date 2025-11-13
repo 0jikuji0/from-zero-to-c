@@ -1,5 +1,5 @@
 // Exercise 8 — Pointer Arithmetic
-// Difficulty: * (1 star) - Easy
+// Difficulty: * (1/5)
 //
 // Problem: read n integers into a vector, then read an index i and print
 // the element at index i using pointer arithmetic (not direct indexing).

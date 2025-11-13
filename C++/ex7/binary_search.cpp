@@ -1,5 +1,5 @@
 // Exercise 7 — Binary Search
-// Difficulty: * (1 star) - Easy
+// Difficulty: ** (2/5)
 //
 // Problem: given a sorted array of n integers and a value x, determine
 // whether x exists in the array. If yes, print the 0-based index of any

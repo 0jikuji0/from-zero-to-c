@@ -1,6 +1,6 @@
 /*
  * Linked List Reverse (C++ - Exercise 4)
- * Difficulty: **** (4 stars) - Hard
+ * Difficulty: ** (2/5)
  */
 
 #include <iostream>

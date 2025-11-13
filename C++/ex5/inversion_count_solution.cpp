@@ -1,6 +1,6 @@
 /*
  * Inversion Count (C++ - Exercise 5) - Solution
- * Difficulty: ***** (5 stars) - Very hard
+ * Difficulty: *** (3/5)
  */
 
 #include <iostream>
@@ -61,7 +61,7 @@ int main() {
 }
 /*
  * Inversion Count (C++ - Exercise 5) - Solution
- * Difficulty: ***** (5 stars) - Very hard
+ * Difficulty: *** (3/5)
  */
 
 #include <iostream>

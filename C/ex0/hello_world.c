@@ -1,6 +1,6 @@
 /*
  * Hello World (Exercise 0)
- * Difficulty: * (1 star) - Very easy
+ * Difficulty: * (1/5)
  *
  * Problem: write a C program that prints "Hello, World!" followed by a newline.
  */

@@ -1,6 +1,6 @@
 /*
  * Selection Sort (Exercise 3)
- * Difficulty: *** (3 stars) - Easy
+ * Difficulty: ** (2/5)
  *
  * Task: implement `selection_sort` to sort an array of integers in ascending order.
  * The program reads n followed by n integers and prints the sorted array.

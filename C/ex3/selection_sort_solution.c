@@ -1,6 +1,6 @@
 /*
  * Selection Sort (Exercise 3) - Solution
- * Difficulty: *** (3 stars) - Easy
+ * Difficulty: ** (2/5)
  *
  * Solution: selection sort implementation.
  */
