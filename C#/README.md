@@ -10,6 +10,7 @@ Structure for each exercise folder:
 - `ex3/selection_sort.cs` and `ex3/selection_sort_solution.cs` - selection sort
 - `ex4/linked_list_reverse.cs` and `ex4/linked_list_reverse_solution.cs` - linked list reversal
 - `ex5/inversion_count.cs` and `ex5/inversion_count_solution.cs` - inversion counting
+ - `ex6/longest_increasing_subsequence.cs` and `ex6/longest_increasing_subsequence_solution.cs` - longest increasing subsequence (LIS)
 
 How to compile (Mono):
 
