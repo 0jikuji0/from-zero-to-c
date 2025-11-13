@@ -9,6 +9,5 @@
 
 int main(void) {
     // Affiche Hello, World! puis retourne 0
-    printf("Hello, World!\n");
-    return 0;
+
 }
