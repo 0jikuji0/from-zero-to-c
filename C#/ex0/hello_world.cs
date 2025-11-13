@@ -1,12 +1,12 @@
-// Exercice 0 — Hello World
-// Niveau: Facile
+// Exercise 0 — Hello World
+// Difficulty: Easy
 //
-// Énoncé : écrire un programme C# qui affiche "Hello, World!" suivi d'un saut de ligne.
+// Problem: write a C# program that prints "Hello, World!" followed by a newline.
 
 using System;
 
 class Program {
     static void Main() {
-        // TODO: afficher Hello, World!
+        // TODO: print Hello, World!
     }
 }

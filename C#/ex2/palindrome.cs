@@ -1,13 +1,13 @@
-// Exercice 2 — Palindrome
-// Niveau: Facile
+// Exercise 2 — Palindrome
+// Difficulty: Easy
 //
-// Énoncé : lire une chaîne (sans espaces, ou une ligne entière) et afficher
-// "YES" si elle est un palindrome, sinon "NO".
+// Problem: read a string (no spaces, or a full line) and print
+// "YES" if it is a palindrome, otherwise "NO".
 
 using System;
 
 class Program {
     static void Main() {
-        // TODO: implémenter le test de palindrome
+        // TODO: implement the palindrome test
     }
 }

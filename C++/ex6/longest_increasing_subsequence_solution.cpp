@@ -1,6 +1,6 @@
-// Solution pour l'exercice LIS (O(n log n))
-// Utilise la technique de "tails" : garder pour chaque longueur possible
-// la plus petite valeur de fin d'une sous-suite croissante de cette longueur.
+// Solution for the LIS exercise (O(n log n))
+// Uses the "tails" technique: for each possible length, keep the smallest
+// ending value of an increasing subsequence of that length.
 
 #include <bits/stdc++.h>
 using namespace std;

@@ -15,6 +15,8 @@ Structure for each exercise folder (topic-based filenames):
 - `ex3/selection_sort.c` and `ex3/selection_sort_solution.c` - selection sort
 - `ex4/linked_list_reverse.c` and `ex4/linked_list_reverse_solution.c` - linked list reversal
 - `ex5/inversion_count.c` and `ex5/inversion_count_solution.c` - inversion counting
+ - `ex6/...` (other exercises)
+ - `ex8/prime_sieve.c` and `ex8/prime_sieve_solution.c` - count primes <= n (Sieve of Eratosthenes)
 
 Each C file includes a comment at the top with the exercise title and difficulty (stars using `*`).
 

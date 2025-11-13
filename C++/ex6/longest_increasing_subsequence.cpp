@@ -1,36 +1,35 @@
-// Exercice 6 — Longest Increasing Subsequence (LIS)
-// Niveau: Moyennement difficile
+// Exercise 6 — Longest Increasing Subsequence (LIS)
+// Difficulty: Medium
 //
-// Énoncé :
-// Écrire un programme qui lit un entier n (1 ≤ n ≤ 100000) suivi de n
-// entiers, et affiche la longueur de la plus longue sous-suite strictement
-// croissante (LIS).
+// Problem statement:
+// Read an integer n (1 ≤ n ≤ 100000) followed by n integers, and print the
+// length of the longest strictly increasing subsequence (LIS).
 //
-// Format d'entrée :
+// Input format:
 // n
 // a1 a2 a3 ... an
 //
-// Format de sortie :
-// longueur_de_la_LIS
+// Output format:
+// length_of_the_LIS
 //
-// Exemple :
-// Entrée :
+// Example:
+// Input:
 // 8
 // 10 9 2 5 3 7 101 18
-// Sortie :
+// Output:
 // 4
 //
-// Consignes :
-// - Implémentez la fonction `int lis_length(const vector<int>& a)`.
-// - Vous pouvez utiliser un algorithme O(n log n) ou O(n^2) selon votre goût.
-// - Ne pas modifier la façon dont l'entrée/sortie est lue dans `main`.
+// Notes:
+// - Implement the function `int lis_length(const vector<int>& a)`.
+// - You may use an O(n log n) algorithm or an O(n^2) algorithm.
+// - Do not change the way input/output is handled in `main`.
 
 #include <bits/stdc++.h>
 using namespace std;
 
 int lis_length(const vector<int>& a) {
-    // TODO: implémenter la logique ici
-    // Retourner la longueur de la plus longue sous-suite strictement croissante
+    // TODO: implement the logic here
+    // Return the length of the longest strictly increasing subsequence
     return 0;
 }
 

@@ -1,12 +1,12 @@
-// Exercice 1 — Add two integers
-// Niveau: Facile
+// Exercise 1 — Add two integers
+// Difficulty: Easy
 //
-// Énoncé : lire deux entiers et afficher leur somme.
+// Problem: read two integers and print their sum.
 
 using System;
 
 class Program {
     static void Main() {
-        // TODO: lire deux entiers et afficher leur somme
+        // TODO: read two integers and print their sum
     }
 }

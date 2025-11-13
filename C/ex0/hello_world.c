@@ -2,12 +2,13 @@
  * Hello World (Exercise 0)
  * Difficulty: * (1 star) - Very easy
  *
- * Énoncé : écrire un programme C qui affiche "Hello, World!" suivi d'un saut de ligne.
+ * Problem: write a C program that prints "Hello, World!" followed by a newline.
  */
 
 #include <stdio.h>
 
 int main(void) {
-    // Affiche Hello, World! puis retourne 0
+    // Print Hello, World! then return 0
+    printf("Hello, World!\n");
 
 }

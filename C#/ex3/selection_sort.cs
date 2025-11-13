@@ -1,14 +1,14 @@
-// Exercice 3 — Selection sort
-// Niveau: Moyen
+// Exercise 3 — Selection sort
+// Difficulty: Medium
 //
-// Énoncé : lire n suivi de n entiers, trier avec selection sort et afficher
-// la séquence triée.
+// Problem: read n followed by n integers, sort them using selection sort
+// and print the sorted sequence.
 
 using System;
 using System.Linq;
 
 class Program {
     static void Main() {
-        // TODO: lire n et la liste, trier par selection sort et afficher
+        // TODO: read n and the list, sort with selection sort and print
     }
 }
