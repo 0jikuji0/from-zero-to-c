@@ -1,6 +1,6 @@
 # C# Language Exercises
 
-This folder contains 11 C# exercises. Each exercise is in its own folder `exN` and contains a template exercise file and a solution file.
+This folder contains 14 C# exercises. Each exercise is in its own folder `exN` and contains a template exercise file and a solution file.
 
 Structure for each exercise folder:
 
@@ -16,6 +16,9 @@ Structure for each exercise folder:
 - `ex9/fibonacci.cs` and `ex9/fibonacci_solution.cs` - compute n-th Fibonacci number (iterative)
 - `ex10/is_prime.cs` and `ex10/is_prime_solution.cs` - check if a number is prime
 - `ex11/max_subarray.cs` and `ex11/max_subarray_solution.cs` - maximum subarray sum using Kadane's algorithm
+- `ex12/string_reverse.cs` and `ex12/string_reverse_solution.cs` - reverse a string using LINQ
+- `ex13/gcd.cs` and `ex13/gcd_solution.cs` - find greatest common divisor
+- `ex14/matrix_transpose.cs` and `ex14/matrix_transpose_solution.cs` - transpose a matrix using List of Lists
 
 How to compile (Mono):
 
