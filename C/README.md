@@ -1,6 +1,6 @@
 # C Language Exercises
 
-This workspace contains 21 C language exercises. Each exercise is in its own folder `exN`.
+This workspace contains 23 C language exercises. Each exercise is in its own folder `exN`.
 
 Structure for each exercise folder (topic-based filenames):
 
@@ -25,6 +25,8 @@ Structure for each exercise folder (topic-based filenames):
 - `ex18/bst.c` and `ex18/bst_solution.c` - binary search tree with insert and search operations
 - `ex19/graph_dfs.c` and `ex19/graph_dfs_solution.c` - graph depth-first search (DFS) traversal
 - `ex20/quick_sort.c` and `ex20/quick_sort_solution.c` - quicksort algorithm with partition
+- `ex21/postfix_eval.c` and `ex21/postfix_eval_solution.c` - postfix expression evaluation using stack
+- `ex22/merge_sort.c` and `ex22/merge_sort_solution.c` - merge sort algorithm
 
 Each C file includes a comment at the top with the exercise title and difficulty (stars using `*`).
 
