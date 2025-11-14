@@ -1,6 +1,6 @@
 # C++ Language Exercises
 
-This folder contains 15 C++ exercises. Each exercise is in its own folder `exN`.
+This folder contains 16 C++ exercises. Each exercise is in its own folder `exN`.
 
 Structure for each exercise folder (topic-based filenames):
 
@@ -19,6 +19,7 @@ Structure for each exercise folder (topic-based filenames):
 - `ex12/matrix_transpose.cpp` and `ex12/matrix_transpose_solution.cpp` - transpose a matrix using vector of vectors
 - `ex13/bubble_sort.cpp` and `ex13/bubble_sort_solution.cpp` - sort vector using bubble sort algorithm
 - `ex14/string_length.cpp` and `ex14/string_length_solution.cpp` - find longest and shortest string
+- `ex15/bst.cpp` and `ex15/bst_solution.cpp` - binary search tree with insert and search operations
 
 Each C++ file includes a comment at the top with the exercise title and difficulty (stars using `*`).
 
