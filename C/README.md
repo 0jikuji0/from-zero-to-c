@@ -1,6 +1,6 @@
 # C Language Exercises
 
-This workspace contains 16 C language exercises. Each exercise is in its own folder `exN`.
+This workspace contains 18 C language exercises. Each exercise is in its own folder `exN`.
 
 Structure for each exercise folder (topic-based filenames):
 
@@ -20,6 +20,8 @@ Structure for each exercise folder (topic-based filenames):
 - `ex13/string_reverse.c` and `ex13/string_reverse_solution.c` - reverse a string in-place
 - `ex14/gcd.c` and `ex14/gcd_solution.c` - find greatest common divisor (Euclid's algorithm)
 - `ex15/matrix_transpose.c` and `ex15/matrix_transpose_solution.c` - transpose a matrix with dynamic allocation
+- `ex16/bubble_sort.c` and `ex16/bubble_sort_solution.c` - sort array using bubble sort algorithm
+- `ex17/string_length.c` and `ex17/string_length_solution.c` - find longest and shortest string
 
 Each C file includes a comment at the top with the exercise title and difficulty (stars using `*`).
 
