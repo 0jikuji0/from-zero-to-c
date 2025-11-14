@@ -1,6 +1,6 @@
 # C# Language Exercises
 
-This folder contains 16 C# exercises. Each exercise is in its own folder `exN` and contains a template exercise file and a solution file.
+This folder contains 17 C# exercises. Each exercise is in its own folder `exN` and contains a template exercise file and a solution file.
 
 Structure for each exercise folder:
 
@@ -21,6 +21,7 @@ Structure for each exercise folder:
 - `ex14/matrix_transpose.cs` and `ex14/matrix_transpose_solution.cs` - transpose a matrix using List of Lists
 - `ex15/bubble_sort.cs` and `ex15/bubble_sort_solution.cs` - sort list using bubble sort algorithm
 - `ex16/string_length.cs` and `ex16/string_length_solution.cs` - find longest and shortest string
+- `ex17/bst.cs` and `ex17/bst_solution.cs` - binary search tree with insert and search operations
 
 How to compile (Mono):
 
