@@ -1,6 +1,6 @@
 # C# Language Exercises
 
-This folder contains 20 C# exercises. Each exercise is in its own folder `exN` and contains a template exercise file and a solution file.
+This folder contains 22 C# exercises. Each exercise is in its own folder `exN` and contains a template exercise file and a solution file.
 
 Structure for each exercise folder:
 
@@ -24,6 +24,8 @@ Structure for each exercise folder:
 - `ex17/bst.cs` and `ex17/bst_solution.cs` - binary search tree with insert and search operations
 - `ex18/graph_dfs.cs` and `ex18/graph_dfs_solution.cs` - graph depth-first search (DFS) traversal
 - `ex19/quick_sort.cs` and `ex19/quick_sort_solution.cs` - quicksort algorithm with partition
+- `ex20/postfix_eval.cs` and `ex20/postfix_eval_solution.cs` - postfix expression evaluation using stack
+- `ex21/merge_sort.cs` and `ex21/merge_sort_solution.cs` - merge sort algorithm
 
 How to compile (Mono):
 
