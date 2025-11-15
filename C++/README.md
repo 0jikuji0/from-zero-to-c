@@ -1,6 +1,6 @@
 # C++ Language Exercises
 
-This folder contains 18 C++ exercises. Each exercise is in its own folder `exN`.
+This folder contains 20 C++ exercises. Each exercise is in its own folder `exN`.
 
 Structure for each exercise folder (topic-based filenames):
 
@@ -22,6 +22,8 @@ Structure for each exercise folder (topic-based filenames):
 - `ex15/bst.cpp` and `ex15/bst_solution.cpp` - binary search tree with insert and search operations
 - `ex16/graph_dfs.cpp` and `ex16/graph_dfs_solution.cpp` - graph depth-first search (DFS) traversal
 - `ex17/quick_sort.cpp` and `ex17/quick_sort_solution.cpp` - quicksort algorithm with partition
+- `ex18/postfix_eval.cpp` and `ex18/postfix_eval_solution.cpp` - postfix expression evaluation using stack
+- `ex19/merge_sort.cpp` and `ex19/merge_sort_solution.cpp` - merge sort algorithm
 
 Each C++ file includes a comment at the top with the exercise title and difficulty (stars using `*`).
 
