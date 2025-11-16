@@ -1,6 +1,6 @@
 # C Language Exercises
 
-This workspace contains 23 C language exercises. Each exercise is in its own folder `exN`.
+This workspace contains 25 C language exercises. Each exercise is in its own folder `exN`.
 
 Structure for each exercise folder (topic-based filenames):
 
@@ -27,6 +27,8 @@ Structure for each exercise folder (topic-based filenames):
 - `ex20/quick_sort.c` and `ex20/quick_sort_solution.c` - quicksort algorithm with partition
 - `ex21/postfix_eval.c` and `ex21/postfix_eval_solution.c` - postfix expression evaluation using stack
 - `ex22/merge_sort.c` and `ex22/merge_sort_solution.c` - merge sort algorithm
+- `ex23/hash_table.c` and `ex23/hash_table_solution.c` - hash table with linear probing collision resolution
+- `ex24/topological_sort.c` and `ex24/topological_sort_solution.c` - topological sort (Kahn's algorithm)
 
 Each C file includes a comment at the top with the exercise title and difficulty (stars using `*`).
 
