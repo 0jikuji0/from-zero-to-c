@@ -1,6 +1,6 @@
 # C# Language Exercises
 
-This folder contains 22 C# exercises. Each exercise is in its own folder `exN` and contains a template exercise file and a solution file.
+This folder contains 24 C# exercises. Each exercise is in its own folder `exN` and contains a template exercise file and a solution file.
 
 Structure for each exercise folder:
 
@@ -26,6 +26,8 @@ Structure for each exercise folder:
 - `ex19/quick_sort.cs` and `ex19/quick_sort_solution.cs` - quicksort algorithm with partition
 - `ex20/postfix_eval.cs` and `ex20/postfix_eval_solution.cs` - postfix expression evaluation using stack
 - `ex21/merge_sort.cs` and `ex21/merge_sort_solution.cs` - merge sort algorithm
+- `ex22/hash_table.cs` and `ex22/hash_table_solution.cs` - hash table with linear probing collision resolution
+- `ex23/topological_sort.cs` and `ex23/topological_sort_solution.cs` - topological sort (Kahn's algorithm)
 
 How to compile (Mono):
 
