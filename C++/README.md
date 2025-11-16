@@ -1,6 +1,6 @@
 # C++ Language Exercises
 
-This folder contains 20 C++ exercises. Each exercise is in its own folder `exN`.
+This folder contains 22 C++ exercises. Each exercise is in its own folder `exN`.
 
 Structure for each exercise folder (topic-based filenames):
 
@@ -24,6 +24,8 @@ Structure for each exercise folder (topic-based filenames):
 - `ex17/quick_sort.cpp` and `ex17/quick_sort_solution.cpp` - quicksort algorithm with partition
 - `ex18/postfix_eval.cpp` and `ex18/postfix_eval_solution.cpp` - postfix expression evaluation using stack
 - `ex19/merge_sort.cpp` and `ex19/merge_sort_solution.cpp` - merge sort algorithm
+- `ex20/lru_cache.cpp` and `ex20/lru_cache_solution.cpp` - LRU (Least Recently Used) cache
+- `ex21/dijkstra.cpp` and `ex21/dijkstra_solution.cpp` - Dijkstra's shortest path algorithm
 
 Each C++ file includes a comment at the top with the exercise title and difficulty (stars using `*`).
 

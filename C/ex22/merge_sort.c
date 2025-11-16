@@ -1,3 +1,18 @@
+/**
+ * Exercise 22: Merge Sort Algorithm
+ * Difficulty: *** (3/5)
+ * 
+ * Implement the merge sort algorithm to sort an array of integers.
+ * Merge sort is a divide-and-conquer sorting algorithm with O(n log n) time complexity.
+ * 
+ * Input:
+ * - First line: number of elements (n)
+ * - Second line: n integers to be sorted
+ * 
+ * Output:
+ * - Print the sorted array in ascending order (space-separated)
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 
