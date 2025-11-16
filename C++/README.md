@@ -1,6 +1,6 @@
 # C++ Language Exercises
 
-This folder contains 22 C++ exercises. Each exercise is in its own folder `exN`.
+This folder contains 24 C++ exercises. Each exercise is in its own folder `exN`.
 
 Structure for each exercise folder (topic-based filenames):
 
@@ -26,6 +26,8 @@ Structure for each exercise folder (topic-based filenames):
 - `ex19/merge_sort.cpp` and `ex19/merge_sort_solution.cpp` - merge sort algorithm
 - `ex20/lru_cache.cpp` and `ex20/lru_cache_solution.cpp` - LRU (Least Recently Used) cache
 - `ex21/dijkstra.cpp` and `ex21/dijkstra_solution.cpp` - Dijkstra's shortest path algorithm
+- `ex22/hash_table.cpp` and `ex22/hash_table_solution.cpp` - hash table with linear probing collision resolution
+- `ex23/topological_sort.cpp` and `ex23/topological_sort_solution.cpp` - topological sort (Kahn's algorithm)
 
 Each C++ file includes a comment at the top with the exercise title and difficulty (stars using `*`).
 
