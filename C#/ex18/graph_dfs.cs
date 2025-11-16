@@ -1,3 +1,20 @@
+/**
+ * Exercise 18: Graph Depth-First Search (DFS)
+ * Difficulty: **** (4/5)
+ * 
+ * Implement a graph representation using an adjacency list and perform
+ * a depth-first search traversal starting from a given node.
+ * 
+ * Input:
+ * - First line: number of nodes (n)
+ * - Second line: number of edges (m)
+ * - Next m lines: edges (u v) representing an edge from u to v
+ * - Last line: starting node for DFS
+ * 
+ * Output:
+ * - Print all visited nodes in DFS order, space-separated, ending with newline
+ */
+
 using System;
 using System.Collections.Generic;
 

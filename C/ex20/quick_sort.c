@@ -1,3 +1,18 @@
+/**
+ * Exercise 20: Quicksort Algorithm
+ * Difficulty: *** (3/5)
+ * 
+ * Implement the quicksort algorithm to sort an array of integers.
+ * Quicksort uses a divide-and-conquer approach with a pivot element.
+ * 
+ * Input:
+ * - First line: number of elements (n)
+ * - Second line: n integers to be sorted
+ * 
+ * Output:
+ * - Print the sorted array in ascending order (space-separated)
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 

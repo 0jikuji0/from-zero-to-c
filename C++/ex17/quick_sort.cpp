@@ -1,3 +1,18 @@
+/**
+ * Exercise 17: Quicksort Algorithm
+ * Difficulty: *** (3/5)
+ * 
+ * Implement the quicksort algorithm to sort a vector of integers.
+ * Quicksort uses a divide-and-conquer approach with a pivot element.
+ * 
+ * Input:
+ * - First line: number of elements (n)
+ * - Second line: n integers to be sorted
+ * 
+ * Output:
+ * - Print the sorted vector in ascending order (space-separated)
+ */
+
 #include <bits/stdc++.h>
 using namespace std;
 
