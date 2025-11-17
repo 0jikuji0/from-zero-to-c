@@ -1,6 +1,6 @@
 # C# Language Exercises
 
-This folder contains 24 C# exercises. Each exercise is in its own folder `exN` and contains a template exercise file and a solution file.
+This folder contains 26 C# exercises. Each exercise is in its own folder `exN` and contains a template exercise file and a solution file.
 
 Structure for each exercise folder:
 
@@ -28,6 +28,8 @@ Structure for each exercise folder:
 - `ex21/merge_sort.cs` and `ex21/merge_sort_solution.cs` - merge sort algorithm
 - `ex22/hash_table.cs` and `ex22/hash_table_solution.cs` - hash table with linear probing collision resolution
 - `ex23/topological_sort.cs` and `ex23/topological_sort_solution.cs` - topological sort (Kahn's algorithm)
+- `ex24/segment_tree.cs` and `ex24/segment_tree_solution.cs` - segment tree for range sum queries
+- `ex25/huffman_coding.cs` and `ex25/huffman_coding_solution.cs` - Huffman coding for data compression
 
 How to compile (Mono):
 
