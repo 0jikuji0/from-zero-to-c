@@ -1,6 +1,6 @@
 # C++ Language Exercises
 
-This folder contains 24 C++ exercises. Each exercise is in its own folder `exN`.
+This folder contains 26 C++ exercises. Each exercise is in its own folder `exN`.
 
 Structure for each exercise folder (topic-based filenames):
 
@@ -28,6 +28,8 @@ Structure for each exercise folder (topic-based filenames):
 - `ex21/dijkstra.cpp` and `ex21/dijkstra_solution.cpp` - Dijkstra's shortest path algorithm
 - `ex22/hash_table.cpp` and `ex22/hash_table_solution.cpp` - hash table with linear probing collision resolution
 - `ex23/topological_sort.cpp` and `ex23/topological_sort_solution.cpp` - topological sort (Kahn's algorithm)
+- `ex24/segment_tree.cpp` and `ex24/segment_tree_solution.cpp` - segment tree for range sum queries
+- `ex25/huffman_coding.cpp` and `ex25/huffman_coding_solution.cpp` - Huffman coding for data compression
 
 Each C++ file includes a comment at the top with the exercise title and difficulty (stars using `*`).
 
