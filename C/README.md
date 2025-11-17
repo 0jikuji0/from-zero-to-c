@@ -1,6 +1,6 @@
 # C Language Exercises
 
-This workspace contains 25 C language exercises. Each exercise is in its own folder `exN`.
+This workspace contains 27 C language exercises. Each exercise is in its own folder `exN`.
 
 Structure for each exercise folder (topic-based filenames):
 
@@ -29,6 +29,8 @@ Structure for each exercise folder (topic-based filenames):
 - `ex22/merge_sort.c` and `ex22/merge_sort_solution.c` - merge sort algorithm
 - `ex23/hash_table.c` and `ex23/hash_table_solution.c` - hash table with linear probing collision resolution
 - `ex24/topological_sort.c` and `ex24/topological_sort_solution.c` - topological sort (Kahn's algorithm)
+- `ex25/segment_tree.c` and `ex25/segment_tree_solution.c` - segment tree for range sum queries
+- `ex26/huffman_coding.c` and `ex26/huffman_coding_solution.c` - Huffman coding for data compression
 
 Each C file includes a comment at the top with the exercise title and difficulty (stars using `*`).
 
