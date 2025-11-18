@@ -1,6 +1,6 @@
 # C Language Exercises
 
-This workspace contains 27 C language exercises. Each exercise is in its own folder `exN`.
+This workspace contains 29 C language exercises. Each exercise is in its own folder `exN`.
 
 Structure for each exercise folder (topic-based filenames):
 
@@ -31,6 +31,8 @@ Structure for each exercise folder (topic-based filenames):
 - `ex24/topological_sort.c` and `ex24/topological_sort_solution.c` - topological sort (Kahn's algorithm)
 - `ex25/segment_tree.c` and `ex25/segment_tree_solution.c` - segment tree for range sum queries
 - `ex26/huffman_coding.c` and `ex26/huffman_coding_solution.c` - Huffman coding for data compression
+- `ex27/graph_coloring.c` and `ex27/graph_coloring_solution.c` - graph coloring with backtracking (chromatic number)
+- `ex28/maximum_flow.c` and `ex28/maximum_flow_solution.c` - maximum flow (Ford-Fulkerson algorithm)
 
 Each C file includes a comment at the top with the exercise title and difficulty (stars using `*`).
 
