@@ -1,6 +1,6 @@
 # C Language Exercises
 
-This workspace contains 29 C language exercises. Each exercise is in its own folder `exN`.
+This workspace contains 31 C language exercises. Each exercise is in its own folder `exN`.
 
 Structure for each exercise folder (topic-based filenames):
 
@@ -33,6 +33,8 @@ Structure for each exercise folder (topic-based filenames):
 - `ex26/huffman_coding.c` and `ex26/huffman_coding_solution.c` - Huffman coding for data compression
 - `ex27/graph_coloring.c` and `ex27/graph_coloring_solution.c` - graph coloring with backtracking (chromatic number)
 - `ex28/maximum_flow.c` and `ex28/maximum_flow_solution.c` - maximum flow (Ford-Fulkerson algorithm)
+- `ex29/strongly_connected_components.c` and `ex29/strongly_connected_components_solution.c` - strongly connected components (Kosaraju algorithm)
+- `ex30/articulation_bridges.c` and `ex30/articulation_bridges_solution.c` - articulation points and bridges (cut vertices and edges)
 
 Each C file includes a comment at the top with the exercise title and difficulty (stars using `*`).
 
