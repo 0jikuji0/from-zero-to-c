@@ -1,6 +1,6 @@
 # C++ Language Exercises
 
-This folder contains 28 C++ exercises. Each exercise is in its own folder `exN`.
+This folder contains 30 C++ exercises. Each exercise is in its own folder `exN`.
 
 Structure for each exercise folder (topic-based filenames):
 
@@ -32,6 +32,8 @@ Structure for each exercise folder (topic-based filenames):
 - `ex25/huffman_coding.cpp` and `ex25/huffman_coding_solution.cpp` - Huffman coding for data compression
 - `ex26/graph_coloring.cpp` and `ex26/graph_coloring_solution.cpp` - graph coloring with backtracking (chromatic number)
 - `ex27/maximum_flow.cpp` and `ex27/maximum_flow_solution.cpp` - maximum flow (Ford-Fulkerson algorithm)
+- `ex28/strongly_connected_components.cpp` and `ex28/strongly_connected_components_solution.cpp` - strongly connected components (Kosaraju algorithm)
+- `ex29/articulation_bridges.cpp` and `ex29/articulation_bridges_solution.cpp` - articulation points and bridges (cut vertices and edges)
 
 Each C++ file includes a comment at the top with the exercise title and difficulty (stars using `*`).
 
