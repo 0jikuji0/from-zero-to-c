@@ -1,6 +1,6 @@
 # C Language Exercises
 
-This workspace contains 35 C language exercises. Each exercise is in its own folder `exN`.
+This workspace contains 37 C language exercises. Each exercise is in its own folder `exN`.
 
 Structure for each exercise folder (topic-based filenames):
 
@@ -39,6 +39,8 @@ Structure for each exercise folder (topic-based filenames):
 - `ex32/trie.c` and `ex32/trie_solution.c` - Trie data structure (prefix tree)
 - `ex33/floyd_warshall.c` and `ex33/floyd_warshall_solution.c` - Floyd-Warshall algorithm (all-pairs shortest path)
 - `ex34/kmp_string_matching.c` and `ex34/kmp_string_matching_solution.c` - KMP string matching algorithm
+- `ex35/avl_tree.c` and `ex35/avl_tree_solution.c` - AVL tree (self-balancing BST with rotations)
+- `ex36/disjoint_set_union.c` and `ex36/disjoint_set_union_solution.c` - Disjoint Set Union (Union-Find with path compression)
 
 Each C file includes a comment at the top with the exercise title and difficulty (stars using `*`).
 
