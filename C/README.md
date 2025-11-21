@@ -1,6 +1,6 @@
 # C Language Exercises
 
-This workspace contains 31 C language exercises. Each exercise is in its own folder `exN`.
+This workspace contains 33 C language exercises. Each exercise is in its own folder `exN`.
 
 Structure for each exercise folder (topic-based filenames):
 
@@ -35,6 +35,8 @@ Structure for each exercise folder (topic-based filenames):
 - `ex28/maximum_flow.c` and `ex28/maximum_flow_solution.c` - maximum flow (Ford-Fulkerson algorithm)
 - `ex29/strongly_connected_components.c` and `ex29/strongly_connected_components_solution.c` - strongly connected components (Kosaraju algorithm)
 - `ex30/articulation_bridges.c` and `ex30/articulation_bridges_solution.c` - articulation points and bridges (cut vertices and edges)
+- `ex31/bellman_ford.c` and `ex31/bellman_ford_solution.c` - Bellman-Ford algorithm (shortest path with negative weights)
+- `ex32/trie.c` and `ex32/trie_solution.c` - Trie data structure (prefix tree)
 
 Each C file includes a comment at the top with the exercise title and difficulty (stars using `*`).
 
