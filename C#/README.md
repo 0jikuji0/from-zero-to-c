@@ -1,6 +1,6 @@
 # C# Language Exercises
 
-This folder contains 28 C# exercises. Each exercise is in its own folder `exN` and contains a template exercise file and a solution file.
+This folder contains 30 C# exercises. Each exercise is in its own folder `exN` and contains a template exercise file and a solution file.
 
 Structure for each exercise folder:
 
@@ -32,6 +32,8 @@ Structure for each exercise folder:
 - `ex25/huffman_coding.cs` and `ex25/huffman_coding_solution.cs` - Huffman coding for data compression
 - `ex26/strongly_connected_components.cs` and `ex26/strongly_connected_components_solution.cs` - strongly connected components (Kosaraju algorithm)
 - `ex27/articulation_bridges.cs` and `ex27/articulation_bridges_solution.cs` - articulation points and bridges (cut vertices and edges)
+- `ex28/bellman_ford.cs` and `ex28/bellman_ford_solution.cs` - Bellman-Ford algorithm (shortest path with negative weights)
+- `ex29/trie.cs` and `ex29/trie_solution.cs` - Trie data structure (prefix tree)
 
 How to compile (Mono):
 
