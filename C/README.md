@@ -1,6 +1,6 @@
 # C Language Exercises
 
-This workspace contains 33 C language exercises. Each exercise is in its own folder `exN`.
+This workspace contains 35 C language exercises. Each exercise is in its own folder `exN`.
 
 Structure for each exercise folder (topic-based filenames):
 
@@ -37,6 +37,8 @@ Structure for each exercise folder (topic-based filenames):
 - `ex30/articulation_bridges.c` and `ex30/articulation_bridges_solution.c` - articulation points and bridges (cut vertices and edges)
 - `ex31/bellman_ford.c` and `ex31/bellman_ford_solution.c` - Bellman-Ford algorithm (shortest path with negative weights)
 - `ex32/trie.c` and `ex32/trie_solution.c` - Trie data structure (prefix tree)
+- `ex33/floyd_warshall.c` and `ex33/floyd_warshall_solution.c` - Floyd-Warshall algorithm (all-pairs shortest path)
+- `ex34/kmp_string_matching.c` and `ex34/kmp_string_matching_solution.c` - KMP string matching algorithm
 
 Each C file includes a comment at the top with the exercise title and difficulty (stars using `*`).
 
