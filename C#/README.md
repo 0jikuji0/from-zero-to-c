@@ -1,6 +1,6 @@
 # C# Language Exercises
 
-This folder contains 30 C# exercises. Each exercise is in its own folder `exN` and contains a template exercise file and a solution file.
+This folder contains 32 C# exercises. Each exercise is in its own folder `exN` and contains a template exercise file and a solution file.
 
 Structure for each exercise folder:
 
@@ -34,6 +34,8 @@ Structure for each exercise folder:
 - `ex27/articulation_bridges.cs` and `ex27/articulation_bridges_solution.cs` - articulation points and bridges (cut vertices and edges)
 - `ex28/bellman_ford.cs` and `ex28/bellman_ford_solution.cs` - Bellman-Ford algorithm (shortest path with negative weights)
 - `ex29/trie.cs` and `ex29/trie_solution.cs` - Trie data structure (prefix tree)
+- `ex30/floyd_warshall.cs` and `ex30/floyd_warshall_solution.cs` - Floyd-Warshall algorithm (all-pairs shortest path)
+- `ex31/avl_tree.cs` and `ex31/avl_tree_solution.cs` - AVL tree (self-balancing BST with rotations)
 
 How to compile (Mono):
 
