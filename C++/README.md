@@ -1,6 +1,6 @@
 # C++ Language Exercises
 
-This folder contains 30 C++ exercises. Each exercise is in its own folder `exN`.
+This folder contains 32 C++ exercises. Each exercise is in its own folder `exN`.
 
 Structure for each exercise folder (topic-based filenames):
 
@@ -34,6 +34,8 @@ Structure for each exercise folder (topic-based filenames):
 - `ex27/maximum_flow.cpp` and `ex27/maximum_flow_solution.cpp` - maximum flow (Ford-Fulkerson algorithm)
 - `ex28/strongly_connected_components.cpp` and `ex28/strongly_connected_components_solution.cpp` - strongly connected components (Kosaraju algorithm)
 - `ex29/articulation_bridges.cpp` and `ex29/articulation_bridges_solution.cpp` - articulation points and bridges (cut vertices and edges)
+- `ex30/bellman_ford.cpp` and `ex30/bellman_ford_solution.cpp` - Bellman-Ford algorithm (shortest path with negative weights)
+- `ex31/trie.cpp` and `ex31/trie_solution.cpp` - Trie data structure (prefix tree)
 
 Each C++ file includes a comment at the top with the exercise title and difficulty (stars using `*`).
 
