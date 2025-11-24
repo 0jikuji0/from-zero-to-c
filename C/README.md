@@ -1,6 +1,6 @@
 # C Language Exercises
 
-This workspace contains 37 C language exercises. Each exercise is in its own folder `exN`.
+This workspace contains 39 C language exercises. Each exercise is in its own folder `exN`.
 
 Structure for each exercise folder (topic-based filenames):
 
@@ -41,6 +41,8 @@ Structure for each exercise folder (topic-based filenames):
 - `ex34/kmp_string_matching.c` and `ex34/kmp_string_matching_solution.c` - KMP string matching algorithm
 - `ex35/avl_tree.c` and `ex35/avl_tree_solution.c` - AVL tree (self-balancing BST with rotations)
 - `ex36/disjoint_set_union.c` and `ex36/disjoint_set_union_solution.c` - Disjoint Set Union (Union-Find with path compression)
+- `ex37/rabin_karp.c` and `ex37/rabin_karp_solution.c` - Rabin-Karp string matching (rolling hash)
+- `ex38/kruskal_mst.c` and `ex38/kruskal_mst_solution.c` - Kruskal's algorithm (minimum spanning tree)
 
 Each C file includes a comment at the top with the exercise title and difficulty (stars using `*`).
 
