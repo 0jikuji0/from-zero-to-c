@@ -1,6 +1,6 @@
 # C# Language Exercises
 
-This folder contains 34 C# exercises. Each exercise is in its own folder `exN` and contains a template exercise file and a solution file.
+This folder contains 35 C# exercises. Each exercise is in its own folder `exN` and contains a template exercise file and a solution file.
 
 Structure for each exercise folder:
 
@@ -38,6 +38,7 @@ Structure for each exercise folder:
 - `ex31/avl_tree.cs` and `ex31/avl_tree_solution.cs` - AVL tree (self-balancing BST with rotations)
 - `ex32/rabin_karp.cs` and `ex32/rabin_karp_solution.cs` - Rabin-Karp string matching (rolling hash)
 - `ex33/kruskal_mst.cs` and `ex33/kruskal_mst_solution.cs` - Kruskal's algorithm (minimum spanning tree)
+- `ex34/suffix_array.cs` and `ex34/suffix_array_solution.cs` - **BONUS** Suffix Array & LCP Array (advanced string processing)
 
 How to compile (Mono):
 
