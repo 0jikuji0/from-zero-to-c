@@ -1,6 +1,6 @@
 # C++ Language Exercises
 
-This folder contains 32 C++ exercises. Each exercise is in its own folder `exN`.
+This folder contains 34 C++ exercises. Each exercise is in its own folder `exN`.
 
 Structure for each exercise folder (topic-based filenames):
 
@@ -36,6 +36,8 @@ Structure for each exercise folder (topic-based filenames):
 - `ex29/articulation_bridges.cpp` and `ex29/articulation_bridges_solution.cpp` - articulation points and bridges (cut vertices and edges)
 - `ex30/bellman_ford.cpp` and `ex30/bellman_ford_solution.cpp` - Bellman-Ford algorithm (shortest path with negative weights)
 - `ex31/trie.cpp` and `ex31/trie_solution.cpp` - Trie data structure (prefix tree)
+- `ex32/rabin_karp.cpp` and `ex32/rabin_karp_solution.cpp` - Rabin-Karp string matching (rolling hash)
+- `ex33/kruskal_mst.cpp` and `ex33/kruskal_mst_solution.cpp` - Kruskal's algorithm (minimum spanning tree)
 
 Each C++ file includes a comment at the top with the exercise title and difficulty (stars using `*`).
 
