@@ -1,6 +1,6 @@
 # C++ Language Exercises
 
-This folder contains 34 C++ exercises. Each exercise is in its own folder `exN`.
+This folder contains 35 C++ exercises. Each exercise is in its own folder `exN`.
 
 Structure for each exercise folder (topic-based filenames):
 
@@ -38,6 +38,7 @@ Structure for each exercise folder (topic-based filenames):
 - `ex31/trie.cpp` and `ex31/trie_solution.cpp` - Trie data structure (prefix tree)
 - `ex32/rabin_karp.cpp` and `ex32/rabin_karp_solution.cpp` - Rabin-Karp string matching (rolling hash)
 - `ex33/kruskal_mst.cpp` and `ex33/kruskal_mst_solution.cpp` - Kruskal's algorithm (minimum spanning tree)
+- `ex34/suffix_array.cpp` and `ex34/suffix_array_solution.cpp` - **BONUS** Suffix Array & LCP Array (advanced string processing)
 
 Each C++ file includes a comment at the top with the exercise title and difficulty (stars using `*`).
 
