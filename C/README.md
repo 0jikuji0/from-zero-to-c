@@ -1,69 +1,252 @@
-# C Language Exercises
+# C Language Exercises - Programming Skill Tree
 
-This workspace contains 41 C language exercises. Each exercise is in its own folder `exN`.
+<div align="center">
 
-Structure for each exercise folder (topic-based filenames):
+![C Badge](https://img.shields.io/badge/C-41_exercises-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Difficulty](https://img.shields.io/badge/Difficulty-★_to_★★★★★★-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
 
-- `ex0/hello_world.c` and `ex0/hello_world_solution.c` - print "Hello, World!"
-- `ex1/add.c` and `ex1/add_solution.c` - sum / add function
-- `ex2/palindrome.c` and `ex2/palindrome_solution.c` - palindrome check
-- `ex3/selection_sort.c` and `ex3/selection_sort_solution.c` - selection sort
-- `ex4/linked_list_reverse.c` and `ex4/linked_list_reverse_solution.c` - linked list reversal
-- `ex5/inversion_count.c` and `ex5/inversion_count_solution.c` - inversion counting
-- `ex6/prime_sieve.c` and `ex6/prime_sieve_solution.c` - count primes <= n (Sieve of Eratosthenes)
-- `ex7/two_sum.c` and `ex7/two_sum_solution.c` - find two indices with sum t (Two Sum)
-- `ex8/pointer_swap.c` and `ex8/pointer_swap_solution.c` - swap two integers using pointers
-- `ex9/dynamic_array.c` and `ex9/dynamic_array_solution.c` - dynamic array allocation and modification
-- `ex10/fibonacci.c` and `ex10/fibonacci_solution.c` - compute n-th Fibonacci number (iterative)
-- `ex11/is_prime.c` and `ex11/is_prime_solution.c` - check if a number is prime
-- `ex12/max_subarray.c` and `ex12/max_subarray_solution.c` - maximum subarray sum using Kadane's algorithm
-- `ex13/string_reverse.c` and `ex13/string_reverse_solution.c` - reverse a string in-place
-- `ex14/gcd.c` and `ex14/gcd_solution.c` - find greatest common divisor (Euclid's algorithm)
-- `ex15/matrix_transpose.c` and `ex15/matrix_transpose_solution.c` - transpose a matrix with dynamic allocation
-- `ex16/bubble_sort.c` and `ex16/bubble_sort_solution.c` - sort array using bubble sort algorithm
-- `ex17/string_length.c` and `ex17/string_length_solution.c` - find longest and shortest string
-- `ex18/bst.c` and `ex18/bst_solution.c` - binary search tree with insert and search operations
-- `ex19/graph_dfs.c` and `ex19/graph_dfs_solution.c` - graph depth-first search (DFS) traversal
-- `ex20/quick_sort.c` and `ex20/quick_sort_solution.c` - quicksort algorithm with partition
-- `ex21/postfix_eval.c` and `ex21/postfix_eval_solution.c` - postfix expression evaluation using stack
-- `ex22/merge_sort.c` and `ex22/merge_sort_solution.c` - merge sort algorithm
-- `ex23/hash_table.c` and `ex23/hash_table_solution.c` - hash table with linear probing collision resolution
-- `ex24/topological_sort.c` and `ex24/topological_sort_solution.c` - topological sort (Kahn's algorithm)
-- `ex25/segment_tree.c` and `ex25/segment_tree_solution.c` - segment tree for range sum queries
-- `ex26/huffman_coding.c` and `ex26/huffman_coding_solution.c` - Huffman coding for data compression
-- `ex27/graph_coloring.c` and `ex27/graph_coloring_solution.c` - graph coloring with backtracking (chromatic number)
-- `ex28/maximum_flow.c` and `ex28/maximum_flow_solution.c` - maximum flow (Ford-Fulkerson algorithm)
-- `ex29/strongly_connected_components.c` and `ex29/strongly_connected_components_solution.c` - strongly connected components (Kosaraju algorithm)
-- `ex30/articulation_bridges.c` and `ex30/articulation_bridges_solution.c` - articulation points and bridges (cut vertices and edges)
-- `ex31/bellman_ford.c` and `ex31/bellman_ford_solution.c` - Bellman-Ford algorithm (shortest path with negative weights)
-- `ex32/trie.c` and `ex32/trie_solution.c` - Trie data structure (prefix tree)
-- `ex33/floyd_warshall.c` and `ex33/floyd_warshall_solution.c` - Floyd-Warshall algorithm (all-pairs shortest path)
-- `ex34/kmp_string_matching.c` and `ex34/kmp_string_matching_solution.c` - KMP string matching algorithm
-- `ex35/avl_tree.c` and `ex35/avl_tree_solution.c` - AVL tree (self-balancing BST with rotations)
-- `ex36/disjoint_set_union.c` and `ex36/disjoint_set_union_solution.c` - Disjoint Set Union (Union-Find with path compression)
-- `ex37/rabin_karp.c` and `ex37/rabin_karp_solution.c` - Rabin-Karp string matching (rolling hash)
-- `ex38/kruskal_mst.c` and `ex38/kruskal_mst_solution.c` - Kruskal's algorithm (minimum spanning tree)
-- `ex39/prim_mst.c` and `ex39/prim_mst_solution.c` - Prim's algorithm (minimum spanning tree)
-- `ex40/suffix_array.c` and `ex40/suffix_array_solution.c` - **BONUS** Suffix Array & LCP Array (advanced string processing)
+**Systematic approach to mastering C language through hands-on coding exercises**
 
-Each C file includes a comment at the top with the exercise title and difficulty (stars using `*`).
+</div>
 
-How to compile (PowerShell on Windows):
+---
 
+## 🎯 About This C Language Path
+
+C programming is fundamental to computer science. This collection presents a systematic approach to learning C language. Ideal for programming beginners, it offers a clear roadmap to understand **memory management**, **pointers**, and **system-level programming**. Hands-on coding exercises ensure you develop practical skills in writing efficient C programs.
+
+---
+
+## 📊 Exercise Statistics
+
+- **Total Exercises:** 41
+- **Difficulty Range:** ⭐ (Beginner) to ⭐⭐⭐⭐⭐⭐ (Expert Bonus)
+- **Topics Covered:** Basic I/O, Data Structures, Algorithms, Graph Theory, String Processing
+- **Format:** Each exercise includes template + complete solution
+
+---
+
+## 🗂️ Exercise Index
+
+### 🟢 Beginner Level (⭐ - ⭐⭐)
+
+**Index** | **Name** | **Level** | **Project Link**
+---|---|---|---
+00 | Hello World | ⭐☆☆ | 🚀 [Start](ex0/)
+01 | Add Function | ⭐☆☆ | 🚀 [Start](ex1/)
+02 | Palindrome Check | ⭐⭐☆ | 🚀 [Start](ex2/)
+03 | Selection Sort | ⭐⭐☆ | 🚀 [Start](ex3/)
+04 | Linked List Reverse | ⭐⭐☆ | 🚀 [Start](ex4/)
+
+### 🟡 Intermediate Level (⭐⭐⭐)
+
+**Index** | **Name** | **Level** | **Project Link**
+---|---|---|---
+05 | Inversion Count | ⭐⭐⭐ | 🚀 [Start](ex5/)
+06 | Prime Sieve (Eratosthenes) | ⭐⭐⭐ | 🚀 [Start](ex6/)
+07 | Two Sum Problem | ⭐⭐⭐ | 🚀 [Start](ex7/)
+08 | Pointer Swap | ⭐⭐⭐ | 🚀 [Start](ex8/)
+09 | Dynamic Array | ⭐⭐⭐ | 🚀 [Start](ex9/)
+10 | Fibonacci Sequence | ⭐⭐⭐ | 🚀 [Start](ex10/)
+11 | Prime Number Check | ⭐⭐⭐ | 🚀 [Start](ex11/)
+12 | Max Subarray (Kadane) | ⭐⭐⭐ | 🚀 [Start](ex12/)
+13 | String Reverse | ⭐⭐⭐ | 🚀 [Start](ex13/)
+14 | GCD (Euclidean) | ⭐⭐⭐ | 🚀 [Start](ex14/)
+15 | Matrix Transpose | ⭐⭐⭐ | 🚀 [Start](ex15/)
+
+### 🟠 Advanced Level (⭐⭐⭐⭐)
+
+**Index** | **Name** | **Level** | **Project Link**
+---|---|---|---
+16 | Bubble Sort | ⭐⭐⭐ | 🚀 [Start](ex16/)
+17 | String Length Comparison | ⭐⭐⭐ | 🚀 [Start](ex17/)
+18 | Binary Search Tree | ⭐⭐⭐⭐ | 🚀 [Start](ex18/)
+19 | Graph DFS | ⭐⭐⭐⭐ | 🚀 [Start](ex19/)
+20 | QuickSort Algorithm | ⭐⭐⭐ | 🚀 [Start](ex20/)
+21 | Postfix Evaluation | ⭐⭐⭐⭐ | 🚀 [Start](ex21/)
+22 | Merge Sort | ⭐⭐⭐⭐ | 🚀 [Start](ex22/)
+23 | Hash Table | ⭐⭐⭐⭐ | 🚀 [Start](ex23/)
+24 | Topological Sort (Kahn) | ⭐⭐⭐⭐ | 🚀 [Start](ex24/)
+25 | Segment Tree | ⭐⭐⭐⭐ | 🚀 [Start](ex25/)
+
+### 🔴 Expert Level (⭐⭐⭐⭐⭐)
+
+**Index** | **Name** | **Level** | **Project Link**
+---|---|---|---
+26 | Huffman Coding | ⭐⭐⭐⭐⭐ | 🚀 [Start](ex26/)
+27 | Graph Coloring | ⭐⭐⭐⭐⭐ | 🚀 [Start](ex27/)
+28 | Maximum Flow (Ford-Fulkerson) | ⭐⭐⭐⭐⭐ | 🚀 [Start](ex28/)
+29 | Strongly Connected Components | ⭐⭐⭐⭐⭐ | 🚀 [Start](ex29/)
+30 | Articulation Points & Bridges | ⭐⭐⭐⭐⭐ | 🚀 [Start](ex30/)
+31 | Bellman-Ford Algorithm | ⭐⭐⭐⭐⭐ | 🚀 [Start](ex31/)
+32 | Trie Data Structure | ⭐⭐⭐⭐⭐ | 🚀 [Start](ex32/)
+33 | Floyd-Warshall Algorithm | ⭐⭐⭐⭐⭐ | 🚀 [Start](ex33/)
+34 | KMP String Matching | ⭐⭐⭐⭐⭐ | 🚀 [Start](ex34/)
+35 | AVL Tree | ⭐⭐⭐⭐⭐ | 🚀 [Start](ex35/)
+36 | Disjoint Set Union (DSU) | ⭐⭐⭐⭐⭐ | 🚀 [Start](ex36/)
+37 | Rabin-Karp (Rolling Hash) | ⭐⭐⭐⭐⭐ | 🚀 [Start](ex37/)
+38 | Kruskal's MST | ⭐⭐⭐⭐⭐ | 🚀 [Start](ex38/)
+39 | Prim's MST | ⭐⭐⭐⭐⭐ | 🚀 [Start](ex39/)
+
+### 💎 Bonus Challenge (⭐⭐⭐⭐⭐⭐)
+
+**Index** | **Name** | **Level** | **Project Link**
+---|---|---|---
+40 | **Suffix Array & LCP Array** | ⭐⭐⭐⭐⭐⭐ | 🚀 [Start](ex40/)
+
+> **Note:** Exercise 40 is a 6-star bonus challenge featuring advanced string processing techniques used in competitive programming and bioinformatics.
+
+---
+
+## 🎓 What You'll Learn
+
+### Core C Concepts
+- ✅ **Memory Management:** malloc, free, pointer arithmetic
+- ✅ **Data Structures:** Arrays, linked lists, trees, graphs, hash tables
+- ✅ **Algorithms:** Sorting, searching, dynamic programming, graph algorithms
+- ✅ **String Processing:** Pattern matching, suffix arrays, rolling hash
+- ✅ **Advanced Topics:** Self-balancing trees, MST algorithms, flow networks
+
+### Programming Skills
+- ✅ Manual memory allocation and deallocation
+- ✅ Pointer manipulation and struct-based designs
+- ✅ Efficient algorithm implementation
+- ✅ Time and space complexity optimization
+- ✅ Debugging and problem-solving in C
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+```bash
+# Install GCC (Linux/WSL)
+sudo apt install gcc
+
+# Install MinGW-w64 (Windows)
+# Download from: https://www.mingw-w64.org/
 ```
-# compile an exercise (example: ex1 solution)
-gcc "ex1/add_solution.c" -O2 -o "ex1\add_solution.exe"
-& "ex1\add_solution.exe"
+
+### Compile and Run
+```bash
+# Navigate to an exercise folder
+cd ex1
+
+# Compile the solution
+gcc add_solution.c -o add_solution
+
+# Run the program
+./add_solution
 ```
 
-To compile all solutions at once (example):
-
-```
-gcc "ex1/add_solution.c" -O2 -o "ex1\add_solution.exe" ;
-gcc "ex2/palindrome_solution.c" -O2 -o "ex2\palindrome_solution.exe" ;
-gcc "ex3/selection_sort_solution.c" -O2 -o "ex3\selection_sort_solution.exe" ;
-gcc "ex4/linked_list_reverse_solution.c" -O2 -o "ex4\linked_list_reverse_solution.exe" ;
-gcc "ex5/inversion_count_solution.c" -O2 -o "ex5\inversion_count_solution.exe"
+### Recommended Compilation Flags
+```bash
+gcc -std=c11 -O2 -Wall -Wextra your_file.c -o output
 ```
 
-If `gcc` is not available on your system, install a C toolchain (e.g., MinGW-w64) or use WSL.
+---
+
+## 📂 Exercise Structure
+
+Each exercise folder (`exN/`) contains:
+
+1. **Template File** (`exercise_name.c`)
+   - Problem description in header comment
+   - Skeleton code with TODO comments
+   - Input/output specifications
+
+2. **Solution File** (`exercise_name_solution.c`)
+   - Complete working implementation
+   - Optimized and well-commented code
+   - Ready to compile and run
+
+---
+
+## 🎯 Difficulty System
+
+| Stars | Level | Description |
+|-------|-------|-------------|
+| ⭐ | Beginner | Basic syntax, simple I/O |
+| ⭐⭐ | Easy | Control structures, basic logic |
+| ⭐⭐⭐ | Intermediate | Data structures, algorithms |
+| ⭐⭐⭐⭐ | Advanced | Complex algorithms, optimization |
+| ⭐⭐⭐⭐⭐ | Expert | Competitive programming level |
+| ⭐⭐⭐⭐⭐⭐ | **BONUS** | Research-level algorithms |
+
+---
+
+## 🔥 Featured Topics
+
+### Data Structures
+- Linked Lists, Stacks, Queues
+- Binary Search Trees, AVL Trees
+- Hash Tables with Linear Probing
+- Tries (Prefix Trees)
+- Segment Trees
+- Disjoint Set Union (Union-Find)
+
+### Sorting & Searching
+- Selection Sort, Bubble Sort
+- QuickSort, Merge Sort
+- Binary Search
+- Inversion Counting
+
+### Graph Algorithms
+- Depth-First Search (DFS)
+- Topological Sort (Kahn's Algorithm)
+- Strongly Connected Components (Kosaraju)
+- Articulation Points & Bridges
+- Graph Coloring (Backtracking)
+- Maximum Flow (Ford-Fulkerson)
+- Minimum Spanning Tree (Kruskal's, Prim's)
+
+### Shortest Path Algorithms
+- Bellman-Ford (negative weights)
+- Floyd-Warshall (all-pairs)
+
+### String Algorithms
+- KMP Pattern Matching
+- Rabin-Karp (Rolling Hash)
+- **Suffix Array & LCP** (bonus)
+
+### Other Advanced Topics
+- Kadane's Algorithm
+- Huffman Coding
+- Sieve of Eratosthenes
+- Euclidean GCD
+
+---
+
+## 💡 Tips for Success
+
+1. **Start Simple:** Begin with exercises 0-10 to build fundamentals
+2. **Read Solutions Carefully:** Understand the approach before coding
+3. **Practice Memory Management:** Always free allocated memory
+4. **Test Edge Cases:** Try empty inputs, single elements, large arrays
+5. **Use Debugging Tools:** Learn to use gdb for debugging
+6. **Optimize Later:** Focus on correctness first, then performance
+
+---
+
+## 🤝 Contributing
+
+Found a bug or have suggestions? Feel free to open an issue or submit a pull request!
+
+---
+
+## 📜 License
+
+This collection is open source and available for educational purposes.
+
+---
+
+<div align="center">
+
+**Happy Coding in C! 🚀**
+
+[⬆ Back to Top](#c-language-exercises---programming-skill-tree) | [View All Languages](../README.md)
+
+</div>
+
+

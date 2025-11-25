@@ -1,61 +1,251 @@
-# C# Language Exercises
+# C# Language Exercises - Programming Skill Tree
 
-This folder contains 35 C# exercises. Each exercise is in its own folder `exN` and contains a template exercise file and a solution file.
+<div align="center">
 
-Structure for each exercise folder:
+![C# Badge](https://img.shields.io/badge/C%23-35_exercises-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Difficulty](https://img.shields.io/badge/Difficulty-★_to_★★★★★★-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
 
-- `ex0/hello_world.cs` and `ex0/hello_world_solution.cs` - print "Hello, World!"
-- `ex1/add.cs` and `ex1/add_solution.cs` - sum / add function
-- `ex2/palindrome.cs` and `ex2/palindrome_solution.cs` - palindrome check
-- `ex3/selection_sort.cs` and `ex3/selection_sort_solution.cs` - selection sort
-- `ex4/linked_list_reverse.cs` and `ex4/linked_list_reverse_solution.cs` - linked list reversal
-- `ex5/inversion_count.cs` and `ex5/inversion_count_solution.cs` - inversion counting
-- `ex6/longest_increasing_subsequence.cs` and `ex6/longest_increasing_subsequence_solution.cs` - longest increasing subsequence (LIS)
-- `ex7/reference_swap.cs` and `ex7/reference_swap_solution.cs` - swap two integers using `ref` parameters
-- `ex8/list_modify.cs` and `ex8/list_modify_solution.cs` - modify a List element at a given index
-- `ex9/fibonacci.cs` and `ex9/fibonacci_solution.cs` - compute n-th Fibonacci number (iterative)
-- `ex10/is_prime.cs` and `ex10/is_prime_solution.cs` - check if a number is prime
-- `ex11/max_subarray.cs` and `ex11/max_subarray_solution.cs` - maximum subarray sum using Kadane's algorithm
-- `ex12/string_reverse.cs` and `ex12/string_reverse_solution.cs` - reverse a string using LINQ
-- `ex13/gcd.cs` and `ex13/gcd_solution.cs` - find greatest common divisor
-- `ex14/matrix_transpose.cs` and `ex14/matrix_transpose_solution.cs` - transpose a matrix using List of Lists
-- `ex15/bubble_sort.cs` and `ex15/bubble_sort_solution.cs` - sort list using bubble sort algorithm
-- `ex16/string_length.cs` and `ex16/string_length_solution.cs` - find longest and shortest string
-- `ex17/bst.cs` and `ex17/bst_solution.cs` - binary search tree with insert and search operations
-- `ex18/graph_dfs.cs` and `ex18/graph_dfs_solution.cs` - graph depth-first search (DFS) traversal
-- `ex19/quick_sort.cs` and `ex19/quick_sort_solution.cs` - quicksort algorithm with partition
-- `ex20/postfix_eval.cs` and `ex20/postfix_eval_solution.cs` - postfix expression evaluation using stack
-- `ex21/merge_sort.cs` and `ex21/merge_sort_solution.cs` - merge sort algorithm
-- `ex22/hash_table.cs` and `ex22/hash_table_solution.cs` - hash table with linear probing collision resolution
-- `ex23/topological_sort.cs` and `ex23/topological_sort_solution.cs` - topological sort (Kahn's algorithm)
-- `ex24/segment_tree.cs` and `ex24/segment_tree_solution.cs` - segment tree for range sum queries
-- `ex25/huffman_coding.cs` and `ex25/huffman_coding_solution.cs` - Huffman coding for data compression
-- `ex26/strongly_connected_components.cs` and `ex26/strongly_connected_components_solution.cs` - strongly connected components (Kosaraju algorithm)
-- `ex27/articulation_bridges.cs` and `ex27/articulation_bridges_solution.cs` - articulation points and bridges (cut vertices and edges)
-- `ex28/bellman_ford.cs` and `ex28/bellman_ford_solution.cs` - Bellman-Ford algorithm (shortest path with negative weights)
-- `ex29/trie.cs` and `ex29/trie_solution.cs` - Trie data structure (prefix tree)
-- `ex30/floyd_warshall.cs` and `ex30/floyd_warshall_solution.cs` - Floyd-Warshall algorithm (all-pairs shortest path)
-- `ex31/avl_tree.cs` and `ex31/avl_tree_solution.cs` - AVL tree (self-balancing BST with rotations)
-- `ex32/rabin_karp.cs` and `ex32/rabin_karp_solution.cs` - Rabin-Karp string matching (rolling hash)
-- `ex33/kruskal_mst.cs` and `ex33/kruskal_mst_solution.cs` - Kruskal's algorithm (minimum spanning tree)
-- `ex34/suffix_array.cs` and `ex34/suffix_array_solution.cs` - **BONUS** Suffix Array & LCP Array (advanced string processing)
+**Master C# and .NET through hands-on coding exercises with modern features**
 
-How to compile (Mono):
+</div>
 
+---
+
+## 🎯 About This C# Language Path
+
+C# is a modern, object-oriented language developed by Microsoft as part of the .NET ecosystem. This collection presents a systematic approach to learning C# programming. Perfect for aspiring .NET developers, it covers **LINQ**, **generics**, **properties**, **interfaces**, and **managed memory**. Learn to write clean, idiomatic C# code for enterprise applications.
+
+---
+
+## 📊 Exercise Statistics
+
+- **Total Exercises:** 35
+- **Difficulty Range:** ⭐ (Beginner) to ⭐⭐⭐⭐⭐⭐ (Expert Bonus)
+- **Topics Covered:** LINQ, Collections, OOP, Algorithms, Data Structures
+- **Runtime:** .NET SDK or Mono
+- **Format:** Each exercise includes template + complete solution
+
+---
+
+## 🗂️ Exercise Index
+
+### 🟢 Beginner Level (⭐ - ⭐⭐)
+
+**Index** | **Name** | **Level** | **Project Link**
+---|---|---|---
+00 | Hello World | ⭐☆☆ | 🚀 [Start](ex0/)
+01 | Add Function | ⭐☆☆ | 🚀 [Start](ex1/)
+02 | Palindrome Check | ⭐⭐☆ | 🚀 [Start](ex2/)
+03 | Selection Sort | ⭐⭐☆ | 🚀 [Start](ex3/)
+04 | Linked List Reverse | ⭐⭐☆ | 🚀 [Start](ex4/)
+
+### 🟡 Intermediate Level (⭐⭐⭐)
+
+**Index** | **Name** | **Level** | **Project Link**
+---|---|---|---
+05 | Inversion Count | ⭐⭐⭐ | 🚀 [Start](ex5/)
+06 | Longest Increasing Subsequence | ⭐⭐⭐ | 🚀 [Start](ex6/)
+07 | Reference Swap (ref keyword) | ⭐⭐⭐ | 🚀 [Start](ex7/)
+08 | List Modify | ⭐⭐⭐ | 🚀 [Start](ex8/)
+09 | Fibonacci Sequence | ⭐⭐⭐ | 🚀 [Start](ex9/)
+10 | Prime Number Check | ⭐⭐⭐ | 🚀 [Start](ex10/)
+11 | Max Subarray (Kadane) | ⭐⭐⭐ | 🚀 [Start](ex11/)
+12 | String Reverse (LINQ) | ⭐⭐⭐ | 🚀 [Start](ex12/)
+13 | GCD (Euclidean) | ⭐⭐⭐ | 🚀 [Start](ex13/)
+14 | Matrix Transpose | ⭐⭐⭐ | 🚀 [Start](ex14/)
+
+### 🟠 Advanced Level (⭐⭐⭐⭐)
+
+**Index** | **Name** | **Level** | **Project Link**
+---|---|---|---
+15 | Bubble Sort | ⭐⭐⭐ | 🚀 [Start](ex15/)
+16 | String Length Comparison | ⭐⭐⭐ | 🚀 [Start](ex16/)
+17 | Binary Search Tree | ⭐⭐⭐⭐ | 🚀 [Start](ex17/)
+18 | Graph DFS | ⭐⭐⭐⭐ | 🚀 [Start](ex18/)
+19 | QuickSort | ⭐⭐⭐ | 🚀 [Start](ex19/)
+20 | Postfix Evaluation | ⭐⭐⭐⭐ | 🚀 [Start](ex20/)
+21 | Merge Sort | ⭐⭐⭐⭐ | 🚀 [Start](ex21/)
+22 | Hash Table | ⭐⭐⭐⭐ | 🚀 [Start](ex22/)
+23 | Topological Sort | ⭐⭐⭐⭐ | 🚀 [Start](ex23/)
+
+### 🔴 Expert Level (⭐⭐⭐⭐⭐)
+
+**Index** | **Name** | **Level** | **Project Link**
+---|---|---|---
+24 | Segment Tree | ⭐⭐⭐⭐⭐ | 🚀 [Start](ex24/)
+25 | Huffman Coding | ⭐⭐⭐⭐⭐ | 🚀 [Start](ex25/)
+26 | Strongly Connected Components | ⭐⭐⭐⭐⭐ | 🚀 [Start](ex26/)
+27 | Articulation Points & Bridges | ⭐⭐⭐⭐⭐ | 🚀 [Start](ex27/)
+28 | Bellman-Ford Algorithm | ⭐⭐⭐⭐⭐ | 🚀 [Start](ex28/)
+29 | Trie Data Structure | ⭐⭐⭐⭐⭐ | 🚀 [Start](ex29/)
+30 | Floyd-Warshall Algorithm | ⭐⭐⭐⭐⭐ | 🚀 [Start](ex30/)
+31 | AVL Tree | ⭐⭐⭐⭐⭐ | 🚀 [Start](ex31/)
+32 | Rabin-Karp (Rolling Hash) | ⭐⭐⭐⭐⭐ | 🚀 [Start](ex32/)
+33 | Kruskal's MST | ⭐⭐⭐⭐⭐ | 🚀 [Start](ex33/)
+
+### 💎 Bonus Challenge (⭐⭐⭐⭐⭐⭐)
+
+**Index** | **Name** | **Level** | **Project Link**
+---|---|---|---
+34 | **Suffix Array & LCP Array** | ⭐⭐⭐⭐⭐⭐ | 🚀 [Start](ex34/)
+
+> **Note:** Exercise 34 is a 6-star bonus challenge featuring advanced string processing using C# interfaces and LINQ.
+
+---
+
+## 🎓 What You'll Learn
+
+### Modern C# Features
+- ✅ **LINQ:** Functional-style queries on collections
+- ✅ **Generics:** List<T>, Dictionary<K,V>, custom generic classes
+- ✅ **Properties:** Auto-properties and computed properties
+- ✅ **Interfaces:** IComparable, IEnumerable, custom interfaces
+- ✅ **Lambda Expressions:** Functional programming constructs
+- ✅ **Extension Methods:** Extending existing types
+- ✅ **Nullable Types:** Safe handling of null values
+
+### .NET Ecosystem
+- ✅ Managed memory and garbage collection
+- ✅ Console I/O with Console class
+- ✅ Collections (List, Dictionary, HashSet, Queue, Stack)
+- ✅ String manipulation and StringBuilder
+- ✅ Exception handling with try-catch
+- ✅ LINQ operators (Select, Where, OrderBy, etc.)
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+**Option 1: .NET SDK (Recommended)**
+```bash
+# Download from: https://dotnet.microsoft.com/download
+# After installation:
+dotnet --version
 ```
-# compile (example: ex1 solution)
-mcs -out:ex1/add_solution.exe "ex1/add_solution.cs"
-mono ex1/add_solution.exe
+
+**Option 2: Mono**
+```bash
+# Linux/WSL
+sudo apt install mono-mcs
+
+# macOS
+brew install mono
 ```
 
-How to run using `dotnet` (create a quick project):
+### Compile and Run
 
-```
-# from the C# folder
-mkdir tmpproj && cd tmpproj
-dotnet new console --language C# --output . --no-restore
-# replace Program.cs with the desired solution file content, then:
+**Using .NET SDK:**
+```bash
+cd ex1
+dotnet script add_solution.cs
+# OR create a project:
+dotnet new console -o MyApp
+# Copy solution code to Program.cs
 dotnet run
 ```
 
-If you want, I can also add small test inputs or a script to build/run all solutions.
+**Using Mono:**
+```bash
+cd ex1
+mcs add_solution.cs -out:add_solution.exe
+mono add_solution.exe
+```
+
+---
+
+## 📂 Exercise Structure
+
+Each exercise folder (`exN/`) contains:
+
+1. **Template File** (`exercise_name.cs`)
+   - Problem description in header comment
+   - Skeleton code with TODO comments
+   - Input/output specifications
+
+2. **Solution File** (`exercise_name_solution.cs`)
+   - Complete working implementation
+   - Modern C# idioms and LINQ
+   - Well-commented and clean code
+
+---
+
+## 🎯 Difficulty System
+
+| Stars | Level | Description |
+|-------|-------|-------------|
+| ⭐ | Beginner | Basic syntax, Console I/O |
+| ⭐⭐ | Easy | Control structures, classes |
+| ⭐⭐⭐ | Intermediate | Collections, LINQ basics |
+| ⭐⭐⭐⭐ | Advanced | Complex data structures, interfaces |
+| ⭐⭐⭐⭐⭐ | Expert | Advanced algorithms, optimization |
+| ⭐⭐⭐⭐⭐⭐ | **BONUS** | Research-level algorithms |
+
+---
+
+## 🔥 Featured Topics
+
+### C# Collections
+- List<T>, Dictionary<K,V>
+- HashSet<T>, Queue<T>, Stack<T>
+- SortedSet<T>, SortedDictionary<K,V>
+- Custom collections with IEnumerable
+
+### Object-Oriented Programming
+- Classes and Objects
+- Properties (auto and computed)
+- Interfaces (IComparable, etc.)
+- Inheritance and Polymorphism
+- Encapsulation with access modifiers
+
+### LINQ & Functional Programming
+- Query syntax and method syntax
+- Select, Where, OrderBy
+- Aggregate functions (Sum, Count, Max)
+- Lambda expressions
+
+### Data Structures & Algorithms
+- Binary Search Trees
+- Tries (Prefix Trees)
+- Segment Trees
+- AVL Trees (self-balancing)
+- Graph algorithms (DFS, Topological Sort, etc.)
+- String algorithms (pattern matching, suffix arrays)
+
+---
+
+## 💡 C# Best Practices
+
+1. **Use Properties:** Prefer properties over public fields
+2. **LINQ for Collections:** Use LINQ for readable collection operations
+3. **Naming Conventions:** PascalCase for classes/methods, camelCase for locals
+4. **Null Safety:** Check for null or use nullable types (?)
+5. **Using Statements:** Properly dispose resources with `using`
+6. **String Interpolation:** Use `$"Hello {name}"` over concatenation
+7. **Var Keyword:** Use `var` when type is obvious from context
+
+---
+
+## 🤝 Contributing
+
+Found a bug or have suggestions? Feel free to open an issue or submit a pull request!
+
+---
+
+## 📜 License
+
+This collection is open source and available for educational purposes.
+
+---
+
+<div align="center">
+
+**Happy Coding in C#! 🚀**
+
+[⬆ Back to Top](#c-language-exercises---programming-skill-tree) | [View All Languages](../README.md)
+
+</div>
+
+
