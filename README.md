@@ -17,7 +17,7 @@
 C programming is fundamental to computer science. This Skill Tree presents a systematic approach to learning C language. Ideal for programming beginners, it offers a clear roadmap to understand **memory management**, **pointers**, and **system-level programming**. Hands-on, non-video courses and coding exercises in an interactive C language playground ensure you develop practical skills in writing efficient C programs.
 
 **Key Features:**
-- ✅ **111 total exercises** across C, C++, and C#
+- ✅ **113 total exercises** across C, C++, and C#
 - ✅ **Parallel implementations** - same algorithms in different languages
 - ✅ **Progressive difficulty** - from ⭐ beginner to ⭐⭐⭐⭐⭐⭐ expert level
 - ✅ **Complete solutions** - every exercise includes template + full solution
@@ -29,7 +29,7 @@ C programming is fundamental to computer science. This Skill Tree presents a sys
 
 | Language | Exercises | Difficulty Range | Status |
 |----------|-----------|------------------|--------|
-| **C** | 41 | ⭐ to ⭐⭐⭐⭐⭐⭐ | ✅ Complete |
+| **C** | 43 | ⭐ to ⭐⭐⭐⭐⭐⭐ | ✅ Complete |
 | **C++** | 35 | ⭐ to ⭐⭐⭐⭐⭐⭐ | ✅ Complete |
 | **C#** | 35 | ⭐ to ⭐⭐⭐⭐⭐⭐ | ✅ Complete |
 

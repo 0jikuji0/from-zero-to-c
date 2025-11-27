@@ -20,7 +20,7 @@ C programming is fundamental to computer science. This collection presents a sys
 
 ## 📊 Exercise Statistics
 
-- **Total Exercises:** 41
+- **Total Exercises:** 43
 - **Difficulty Range:** ⭐ (Beginner) to ⭐⭐⭐⭐⭐⭐ (Expert Bonus)
 - **Topics Covered:** Basic I/O, Data Structures, Algorithms, Graph Theory, String Processing
 - **Format:** Each exercise includes template + complete solution
@@ -88,6 +88,8 @@ C programming is fundamental to computer science. This collection presents a sys
 37 | Rabin-Karp (Rolling Hash) | ⭐⭐⭐⭐⭐ | 🚀 [Start](ex37/)
 38 | Kruskal's MST | ⭐⭐⭐⭐⭐ | 🚀 [Start](ex38/)
 39 | Prim's MST | ⭐⭐⭐⭐⭐ | 🚀 [Start](ex39/)
+41 | Z Algorithm (Pattern Matching) | ⭐⭐⭐⭐⭐ | 🚀 [Start](ex41/)
+42 | Aho-Corasick (Multi-Pattern) | ⭐⭐⭐⭐⭐ | 🚀 [Start](ex42/)
 
 ### 💎 Bonus Challenge (⭐⭐⭐⭐⭐⭐)
 
