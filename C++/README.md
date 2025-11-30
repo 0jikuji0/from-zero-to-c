@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![C++ Badge](https://img.shields.io/badge/C++-35_exercises-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++ Badge](https://img.shields.io/badge/C++-37_exercises-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Difficulty](https://img.shields.io/badge/Difficulty-★_to_★★★★★★-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
 
@@ -20,7 +20,7 @@ C++ combines the power of C with object-oriented programming and the Standard Te
 
 ## 📊 Exercise Statistics
 
-- **Total Exercises:** 35
+- **Total Exercises:** 37
 - **Difficulty Range:** ⭐ (Beginner) to ⭐⭐⭐⭐⭐⭐ (Expert Bonus)
 - **Topics Covered:** STL, OOP, Templates, Algorithms, Data Structures
 - **C++ Standard:** C++17
@@ -89,6 +89,8 @@ C++ combines the power of C with object-oriented programming and the Standard Te
 **Index** | **Name** | **Level** | **Project Link**
 ---|---|---|---
 34 | **Suffix Array & LCP Array** | ⭐⭐⭐⭐⭐⭐ | 🚀 [Start](ex34/)
+35 | AVL Tree (Self-Balancing BST) | ⭐⭐⭐⭐⭐ | 🚀 [Start](ex35/)
+36 | Fenwick Tree (Binary Indexed Tree) | ⭐⭐⭐⭐⭐ | 🚀 [Start](ex36/)
 
 > **Note:** Exercise 34 is a 6-star bonus challenge featuring advanced string processing with O(n log n) complexity.
 
