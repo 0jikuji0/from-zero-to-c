@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![C Badge](https://img.shields.io/badge/C-41_exercises-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C Badge](https://img.shields.io/badge/C-45_exercises-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Difficulty](https://img.shields.io/badge/Difficulty-★_to_★★★★★★-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
 
@@ -20,7 +20,7 @@ C programming is fundamental to computer science. This collection presents a sys
 
 ## 📊 Exercise Statistics
 
-- **Total Exercises:** 43
+- **Total Exercises:** 45
 - **Difficulty Range:** ⭐ (Beginner) to ⭐⭐⭐⭐⭐⭐ (Expert Bonus)
 - **Topics Covered:** Basic I/O, Data Structures, Algorithms, Graph Theory, String Processing
 - **Format:** Each exercise includes template + complete solution
@@ -90,6 +90,8 @@ C programming is fundamental to computer science. This collection presents a sys
 39 | Prim's MST | ⭐⭐⭐⭐⭐ | 🚀 [Start](ex39/)
 41 | Z Algorithm (Pattern Matching) | ⭐⭐⭐⭐⭐ | 🚀 [Start](ex41/)
 42 | Aho-Corasick (Multi-Pattern) | ⭐⭐⭐⭐⭐ | 🚀 [Start](ex42/)
+43 | Red-Black Tree | ⭐⭐⭐⭐⭐ | 🚀 [Start](ex43/)
+44 | Binary Min-Heap | ⭐⭐⭐⭐⭐ | 🚀 [Start](ex44/)
 
 ### 💎 Bonus Challenge (⭐⭐⭐⭐⭐⭐)
 
