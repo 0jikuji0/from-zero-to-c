@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![C# Badge](https://img.shields.io/badge/C%23-37_exercises-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C# Badge](https://img.shields.io/badge/C%23-39_exercises-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Difficulty](https://img.shields.io/badge/Difficulty-★_to_★★★★★★-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
 
@@ -20,7 +20,7 @@ C# is a modern, object-oriented language developed by Microsoft as part of the .
 
 ## 📊 Exercise Statistics
 
-- **Total Exercises:** 37
+- **Total Exercises:** 39
 - **Difficulty Range:** ⭐ (Beginner) to ⭐⭐⭐⭐⭐⭐ (Expert Bonus)
 - **Topics Covered:** LINQ, Collections, OOP, Algorithms, Data Structures
 - **Runtime:** .NET SDK or Mono
@@ -91,6 +91,8 @@ C# is a modern, object-oriented language developed by Microsoft as part of the .
 34 | **Suffix Array & LCP Array** | ⭐⭐⭐⭐⭐⭐ | 🚀 [Start](ex34/)
 35 | Binary Heap (Priority Queue) | ⭐⭐⭐⭐⭐ | 🚀 [Start](ex35/)
 36 | LRU Cache | ⭐⭐⭐⭐⭐ | 🚀 [Start](ex36/)
+37 | Red-Black Tree | ⭐⭐⭐⭐⭐ | 🚀 [Start](ex37/)
+38 | Binary Min-Heap | ⭐⭐⭐⭐⭐ | 🚀 [Start](ex38/)
 
 > **Note:** Exercise 34 is a 6-star bonus challenge featuring advanced string processing using C# interfaces and LINQ.
 
