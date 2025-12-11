@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![C++ Badge](https://img.shields.io/badge/C++-39_exercises-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++ Badge](https://img.shields.io/badge/C++-41_exercises-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Difficulty](https://img.shields.io/badge/Difficulty-★_to_★★★★★★-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
 
@@ -20,7 +20,7 @@ C++ combines the power of C with object-oriented programming and the Standard Te
 
 ## 📊 Exercise Statistics
 
-- **Total Exercises:** 39
+- **Total Exercises:** 41
 - **Difficulty Range:** ⭐ (Beginner) to ⭐⭐⭐⭐⭐⭐ (Expert Bonus)
 - **Topics Covered:** STL, OOP, Templates, Algorithms, Data Structures
 - **C++ Standard:** C++17
@@ -93,6 +93,8 @@ C++ combines the power of C with object-oriented programming and the Standard Te
 36 | Fenwick Tree (Binary Indexed Tree) | ⭐⭐⭐⭐⭐ | 🚀 [Start](ex36/)
 37 | Red-Black Tree | ⭐⭐⭐⭐⭐ | 🚀 [Start](ex37/)
 38 | Binary Min-Heap | ⭐⭐⭐⭐⭐ | 🚀 [Start](ex38/)
+39 | Skip List | ⭐⭐⭐⭐⭐ | 🚀 [Start](ex39/)
+40 | Cartesian Tree | ⭐⭐⭐⭐⭐ | 🚀 [Start](ex40/)
 
 > **Note:** Exercise 34 is a 6-star bonus challenge featuring advanced string processing with O(n log n) complexity.
 
