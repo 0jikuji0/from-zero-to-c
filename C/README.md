@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![C Badge](https://img.shields.io/badge/C-47_exercises-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C Badge](https://img.shields.io/badge/C-49_exercises-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Difficulty](https://img.shields.io/badge/Difficulty-★_to_★★★★★★-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
 
@@ -20,7 +20,7 @@ C programming is fundamental to computer science. This collection presents a sys
 
 ## 📊 Exercise Statistics
 
-- **Total Exercises:** 47
+- **Total Exercises:** 49
 - **Difficulty Range:** ⭐ (Beginner) to ⭐⭐⭐⭐⭐⭐ (Expert Bonus)
 - **Topics Covered:** Basic I/O, Data Structures, Algorithms, Graph Theory, String Processing
 - **Format:** Each exercise includes template + complete solution
@@ -94,6 +94,8 @@ C programming is fundamental to computer science. This collection presents a sys
 44 | Binary Min-Heap | ⭐⭐⭐⭐⭐ | 🚀 [Start](ex44/)
 45 | Fenwick Tree (Binary Indexed Tree) | ⭐⭐⭐⭐⭐ | 🚀 [Start](ex45/)
 46 | Disjoint Set Union (Union-Find) | ⭐⭐⭐⭐⭐ | 🚀 [Start](ex46/)
+47 | Skip List | ⭐⭐⭐⭐⭐ | 🚀 [Start](ex47/)
+48 | Cartesian Tree | ⭐⭐⭐⭐⭐ | 🚀 [Start](ex48/)
 
 ### 💎 Bonus Challenge (⭐⭐⭐⭐⭐⭐)
 
